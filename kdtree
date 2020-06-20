@@ -1,0 +1,517 @@
+import sys
+
+def add(a,b,d):                               #PAPAGIANNOPOULOS
+    val=b.d%2 # calc dimension with depth     #DIMITROPOYLOS
+    b.par=a
+    if(b.data[val]>a.data[val]):
+
+        if(a.right==None):
+
+            a.right=b
+
+        else:
+            a=a.right
+            b.d+=1
+            add(a,b,d)
+
+        return
+
+
+    if(b.data[val]<=a.data[val]):
+        if(a.left==None):
+            a.left=b
+        else:
+            a=a.left
+            b.d+=1
+            add(a,b,d)
+    return
+
+
+
+def FindMax(top,val,array,flag): #val=dimension
+
+    if(top.data[val]>array[val]): #if bigger than max->its new max
+        array[0]=top.data[0]   #copy the node to array
+        array[1]=top.data[1]
+
+    if(top.left or top.right):
+
+        if (flag==0 and top.right):
+            root=root.right
+            return FindMax(top,val,array,1)
+
+        else: #flag==1
+            return FindMax(top.right,val,array,0)
+            return FindMax(top.left,val,array,0)
+
+    else: #no children
+        return array
+
+
+
+def FindMin(top,val,array,flag): #val=dimension array keeps min node values
+    if(top.left or top.right):
+
+        if (flag==0 and top.left):
+
+            if(root.data[val]<array[val]):
+                array[0]=top.data[0]  #copy the node to array
+                array[1]=top.data[1]
+
+            top=top.left
+            return FindMin(top,val,array,1)
+
+        else: #flag==1
+            return FindMin(top.right,val,array,0) #flag is 0
+            return FindMin(top.left,val,array,0)
+
+    else:
+        return array
+
+
+
+def PrintTree(root):
+    if(root):
+         PrintTree(root.left)
+         print(root.data)
+         PrintTree(root.right)
+         return
+
+
+def Edit(old,p,new): #old=node p=old point new=new point
+
+    x=Search(root,old,0)
+    temp=x
+    temp.data[p]=new
+    Delete(x,root,0)
+    x.data[p]=new
+    print(x.data[0])
+    print(x.data[1])
+    add(temp,root,0)
+
+
+def Search(root,tar,d):
+
+    if(root):
+        val=d%2   #calc dimension
+        #print("im at",root.data)
+        if(tar[0]==root.data[0] and tar[1]==root.data[1]):
+            return root
+
+        if(tar[val]>root.data[val]):
+
+            if(root.right):
+                root=root.right
+                d+=1
+                return Search(root,tar,d)
+
+            else:
+                print("Can't go right,Target not found")
+                return root
+        else:
+
+            if(root.left):
+                root=root.left
+                d+=1
+                return Search(root,tar,d)
+
+            else:
+                print("Can't go left,Target not found")
+                return root
+
+
+def Delete(tar,top,d):   #tar=target node
+
+    if(top):
+
+        while not (tar[0]==top.data[0] and tar[1]==top.data[1]):
+            val=d%2   #calc dimension
+
+            if(tar[val]>top.data[val]):
+                top=top.right
+                d+=1
+                return Delete(tar,top,d)
+
+            else:
+                top=top.left
+                d+=1
+                return Delete(tar,top,d)
+    else:
+        return
+
+    val=top.d%2
+
+    if not (top.left or top.right):
+
+         if(top.par.left==top):
+             top.par.left=None
+
+         else:
+             top.par.right=None
+
+         top=None
+         flag=False
+         return
+
+    elif(top.right):
+
+        PrintTree(root)
+        array=["ZZ9999999","ZZ9999999"]
+        found=FindMin(top.right,val,array,val)
+        top.data=found
+        k=input()
+        Delete(found,top.right,d)
+
+    elif(top.left):
+        array=["",""]
+        found=FindMax(top.left,val,array,val)
+        top.data=found
+        k=input()
+        Delete(found,top.left,d) #delete the diadoxos
+
+
+#///////////////////////////////////////////////////////////////////////////////
+def NNSearch(top,tar,val,best,cut,f):
+
+    d=(val-1)%2#//////////////////////////
+
+    if(top.par and (top.left or top.right)):
+
+        if(best<((cut*cut)) and best<(top.par.data[d]-tar[d])**2): #PRUNING
+            return f
+
+    x=(((top.data[0]-tar[0])**2)+((top.data[1]-tar[1])**2))
+
+    if(best==9999):
+        cut=tar[d]-top.data[d]              #cut is difference to tar in cutting dimension
+    else:                                   #its not a box in the first run
+        cut=tar[d]-top.par.data[d]
+    d=val%2#//////////////////////////////////
+
+
+    if(x<best):
+        best=x
+        f=top
+
+
+    if(not top.left and not top.right): #if no children return
+        return f
+
+
+    if(tar[d]>=top.data[d]): #RIGHT->LEFT
+
+         if(top.right):                #RIGHT SUTREE
+             RES1=NNSearch(top.right,tar,val+1,best,cut,f)
+             r1=(((RES1.data[0]-tar[0])**2)+((RES1.data[1]-tar[1])**2))
+
+         if(top.left):                 #LEFT SUBTREE
+
+             if not(top.right):
+                 RES2=NNSearch(top.left,tar,val+1,best,cut,f)
+                 r2=(((RES2.data[0]-tar[0])**2)+((RES2.data[1]-tar[1])**2))
+
+                 return RES2 #RES IS BETTER OR EQUAL TO FORMER BEST
+
+             else:
+                 RES2=NNSearch(top.left,tar,val+1,r1,cut,RES1)        #otan kaleseis tin apo katw thes to apotelesma tis apo panw mesa
+                 r2=(((RES2.data[0]-tar[0])**2)+((RES2.data[1]-tar[1])**2))
+
+                 return RES2        #RES IS BETTER OR EQUAL TO FORMER BEST
+
+         else:
+             if(r1<best):
+                 f=RES1
+             return f
+            #PANTA THA EKTELEITAI 1 APO TA 2 DEN BLEKONTAI GENIKA MONO H SEIRA ALLAZEI
+
+
+    else: #LEFT=>RIGHT
+
+        if(top.left):
+
+            RES1=NNSearch(top.left,tar,val+1,best,cut,f)
+            r1=((RES1.data[0]-tar[0])**2+(RES1.data[1]-tar[1])**2)
+
+        if(top.right):
+            if not(top.left):
+                RES2=NNSearch(top.right,tar,val+1,best,cut,f)
+                r2=(((RES2.data[0]-tar[0])**2)+((RES2.data[1]-tar[1])**2))
+
+                return RES2     #RES IS BETTER OR EQUAL TO FORMER BEST
+
+            else:
+                RES2=NNSearch(top.right,tar,val+1,r1,cut,RES1)
+                r2=(((RES2.data[0]-tar[0])**2)+((RES2.data[1]-tar[1])**2))
+
+                return RES2       #RES IS BETTER OR EQUAL TO FORMER BEST
+
+        else:
+                return RES1         #RES IS BETTER OR EQUAL TO FORMER BEST
+
+
+#top=current node///////target=given node  #val=
+#best=list of nn distances///////cut=distance to bounding square
+#f=list of nn nodes
+
+def KNNSearch(top,tar,val,best,cut,f):
+
+    d=(val-1)%2
+    if(top.par and (top.left or top.right)):
+
+
+        if(best[0]<cut*cut and best[0]<(top.par.data[d]-tar[d])**2):
+            return f
+
+    x=(((top.data[0]-tar[0])**2)+((top.data[1]-tar[1])**2))
+    if(best[k]==9999):
+        cut=tar[d]-top.data[d]              #cut is difference to tar in cutting dimension
+    else:                                  #its not a box in the first run
+        cut=tar[d]-top.par.data[d]
+    d=val%2
+
+
+    p=k
+    while(p>=0 and x<best[p]):
+        p-=1
+    p+=1
+    best.insert(p,x)
+    f.insert(p,top)
+    best.pop(k+1)
+    f.pop(k+1)
+
+
+    if(tar[d]>=top.data[d]):
+
+         if(top.right):
+             RES1=KNNSearch(top.right,tar,val+1,best,cut,f)
+             if not(top.left):
+                     return RES1
+
+
+
+         if(top.left):
+             RES2=KNNSearch(top.left,tar,val+1,best,cut,f)
+             if not(top.right):
+                         return RES2
+
+             for i in range (0,k): #combine and get best final list from both subtrees
+                x=(((RES1[i].data[0]-tar[0])**2)+((RES1[i].data[1]-tar[1])**2))
+                y=(((RES2[i].data[0]-tar[0])**2)+((RES2[i].data[1]-tar[1])**2))
+                if(x<y):
+                    f[i]=RES1[i]
+                else:
+                    f[i]=RES2[i]
+
+             return f                #return combined list
+
+         else:
+             return f
+            #PANTA THA EKTELEITAI 1 APO TA 2 DEN BLEKONTAI GENIKA MONO H SEIRA ALLAZEI
+
+    else:
+        if(top.left):
+            RES1=KNNSearch(top.left,tar,val+1,best,cut,f)
+            if not(top.right):
+                return RES1
+
+
+
+        if(top.right):
+                RES2=KNNSearch(top.right,tar,val+1,best,cut,f)
+                if(top.left):
+
+                    for i in range (0,k): #combine and get best final list from both subtrees
+                        x=(((RES1[i].data[0]-tar[0])**2)+((RES1[i].data[1]-tar[1])**2))
+                        y=(((RES2[i].data[0]-tar[0])**2)+((RES2[i].data[1]-tar[1])**2))
+                        if(x<y):
+                            f[i]=RES1[i]
+                        else:
+                            f[i]=RES2[i]
+
+                        return f        #return combined list
+                else:
+                    return RES2
+
+
+        else:
+            return f
+
+
+
+
+class Tree(object):
+    def __init__(self):
+        self.right=None
+        self.left=None
+        self.par=None
+        self.data=[]
+        self.d=0
+
+root=Tree()
+with open("data66.txt",'r',encoding='utf8',errors='ignore') as f:
+    for line in f:
+        data=[i for i in line.split('  ')] #SPLIT LINE
+        temp=Tree()
+        data[0].strip(' ')
+        data[1].strip(' ')
+        temp.data.insert(0,float(data[0][:8]))
+        temp.data.insert(1,float(data[1][:8]))
+        temp.data.insert(2,data[2][:25])
+        temp.data.insert(3,data[3][:20])
+        if(len(root.data)==0): #if no root become root
+            root.data=temp.data
+        else:
+            add(root,temp,0) #root,what is added, depth
+
+while True:
+    try: #MENU
+        print("\n MENU\n What do you want to do?\
+    (ALL COORDINATES NEED 5 DECIMALS/ 1,11 m accuracy)\n\n")
+        #Print1Tree(root.right)
+        print("Press 0 to add node\nPress 1 to search\nPress 2 to see the tree\
+        \nPress 3 to edit node\nPress 4 to delete\nPress 5 for nearest neigbor\
+        \nPress 6 for knn\nPress 7 to exit()")
+        c=int(input())
+
+        if(c==0):
+            temp=Tree()
+            print("Insert latitude:")
+            x1=input()
+            print("Insert longitude:")
+            x2=input()
+            print("Insert area")
+            x3=input()
+            print("Insert country")
+            x4=input()
+            temp.data.insert(0,float(x1[:8])) #READ FIRST PART OF LINE THAT IS THE 'AM'
+            temp.data.insert(1,float(x2[:8]))
+            temp.data.insert(2,x3[:25])
+            temp.data.insert(3,x4[:20])
+            print(temp.data)
+            if(len(root.data)==0): #if no root become root
+                root.data=temp.data
+            else:
+                add(root,temp,0) #root,what is added, depth
+        if(c==1):        #SEARCH
+            print("Which node are you searching for?")
+            tar=[]
+            x=input()
+            y=input()
+            tar.insert(0,float(x[:8]))
+            tar.insert(1,float(y[:8]))
+            x=Search(root,tar,0)
+            print(x.data)
+            print("PRESS ENTER TO RETURN TO MENU\n")
+            k=input()
+        elif(c==2): #PrintTree
+                print("\n\nEuropean train stations:\n")
+                print("Latitude  -- Longtitude  --  Area  --  Country\n")
+                PrintTree(root)
+                print("PRESS ENTER TO RETURN TO MENU\n")
+                k=input()
+        elif(c==3): #EDIT
+            print("Which node would you like to change\n")
+            tar=[]
+            x=input()
+            y=input()
+            tar.insert(0,float(x[:8]))
+            tar.insert(1,float(y[:8]))
+            k=int(input("Change area(1) or country(2)? ")) #which value
+            n=input("What will be the new value? ") #
+            Edit(tar,k+1,n)
+        elif(c==4):
+            print("Which node would you like to delete\n")
+            tar=[]
+            x=input()
+            y=input()
+            tar.insert(0,float(x[:8]))
+            tar.insert(1,float(y[:8]))
+            print("Im goint to delete",tar[0],tar[1])
+            k=input()
+            Delete(tar,root,0)
+            print("PRESS ENTER TO RETURN TO MENU\n")
+            k=input()
+        elif(c==5):
+            print("Which point")
+            tar=[]
+            x=input()
+            y=input()
+            tar.insert(0,float(x[:8]))
+            tar.insert(1,float(y[:8]))
+            start=datetime.datetime.now()
+            x=Search(root,tar,0)
+            k=NNSearch(root,tar,0,9999,0,root)
+            end=datetime.datetime.now()
+            print("I did that in:",(end-start))
+            print("PRESS ENTER TO RETURN TO MENU\n")
+            k=input()
+            print("DONE THE RESULTS ARE:\n")
+            print(k.data)
+            a1=((float(x)-k.data[0])*111000)
+            if((a1)<0):
+                h="North"
+            else:
+                h="South"
+            a2=(float(y)-k.data[1])*111000
+            if((a2)<0):
+                p="East"
+            else:
+                p="West"
+
+            a1=abs(a1)
+            a2=abs(a2)
+
+            print("\nThe station in located","{0:.2f}".format(a1),"\
+meters",h,"{0:.2f}".format(a2),"meters",p,"\nPRESS ENTER TO RETURN TO MENU\n")
+            k=input()
+
+        elif(c==6):
+            print("Which point")
+            tar=[]
+            x=input()
+            y=input()
+            tar.insert(0,float(x[:8]))
+            tar.insert(1,float(y[:8]))
+            print("How many neigbors are you looking for:")
+            k=int(input())
+            if(k<=1):
+                print("Please use the appropriate function for nearest neigbor")
+                k=input()
+                exit(0)
+            best=[]
+            for i in range(k):
+                best.insert(i,9999)
+            f=[]
+            for i in range(k):
+                f.insert(i,root)
+            print("GOIND FOR NEIGBORS\n")
+            k-=1
+            l=KNNSearch(root,tar,0,best,0,f)
+            print("DONE THE RESULTS ARE:\n")
+            for i in range(k+1):
+                print(l[i].data)
+
+            a1=((float(x)-l[0].data[0])*111000)
+            if((a1)<0):
+                h="North"
+            else:
+                h="South"
+            a2=(float(y)-l[0].data[1])*111000
+            if((a2)<0):
+                p="East"
+            else:
+                p="West"
+
+            a1=abs(a1)
+            a2=abs(a2)
+
+            print("\nThe nearest station in located","{0:.2f}".format(a1),"\
+meters",h,"{0:.2f}".format(a2),"meters",p,"PRESS ENTER TO RETURN TO MENU\n")
+            k=input()
+
+        elif(c==7):
+            print("\n\nSESSION COMPLETED\n\n")
+            break
+
+    except:
+        print("Choose one of the functions given")
