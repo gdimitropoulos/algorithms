@@ -1,0 +1,2140 @@
+54.05184  13.77996  Wolgast Hafen  Europe/Berlin  DE
+54.05638  13.790621  Wolgaster FΓ¤hre  Europe/Berlin  DE
+50.652821  13.063708  Wolkenstein  Europe/Berlin  DE
+52.250249  11.635682  Wolmirstedt  Europe/Berlin  DE
+52.117362  13.195283  Woltersdorf/Nuthe-Urstromtal  Europe/Berlin  DE
+51.368992  13.389369  WΓΌlknitz  Europe/Berlin  DE
+50.81798  12.078041  WΓΌnschendorf Nord  Europe/Berlin  DE
+52.165562  13.468142  WΓΌnsdorf-Waldstadt  Europe/Berlin  DE
+54.230267  13.139613  "WΓΌstenfel DE  Europe/Berlin  DE
+53.584042  11.399625  Schwerin-WΓΌstmark  Europe/Berlin  DE
+51.818839  11.922051  Wulfen (Anh)  Europe/Berlin  DE
+50.466169  11.543129  "WurzbaCH,(ThΓΌr)  "Europe/Berlin  DE
+51.356092  12.709021  Bennewitz  Europe/Berlin  DE
+52.888348  12.456702  Wusterhausen (Dosse) NE  Europe/Berlin  DE
+52.385114  12.374253  Wusterwitz  Europe/Berlin  DE
+50.957097  10.3966  Wutha  Europe/Berlin  DE
+53.004318  12.35285  Wutike  Europe/Berlin  DE
+51.349836  13.515398  Zabeltitz  Europe/Berlin  DE
+53.502653  11.324493  Zachun  Europe/Berlin  DE
+51.919968  12.781213  Zahna  Europe/Berlin  DE
+54.240749  13.080032  Zarrendorf  Europe/Berlin  DE
+52.26474  13.635053  Zeesen  Europe/Berlin  DE
+52.979436  13.317617  Zehdenick (Mark)  Europe/Berlin  DE
+53.005451  13.344459  Zehdenick-Neuhof  Europe/Berlin  DE
+51.330203  13.344549  Zeithain  Europe/Berlin  DE
+50.658547  10.649538  Zella-Mehlis West  Europe/Berlin  DE
+54.06598  13.959447  Zempin  Europe/Berlin  DE
+51.953821  12.088927  Zerbst  Europe/Berlin  DE
+52.299402  13.693339  Zernsdorf  Europe/Berlin  DE
+53.49939  14.09789  Zerrenthin  Europe/Berlin  DE
+50.659374  12.01135  Zeulenroda unt Bf  Europe/Berlin  DE
+50.75493  11.50826  "ZeutsCH, "Europe/Berlin  DE
+52.295869  11.679999  Zielitz  Europe/Berlin  DE
+52.199514  14.616334  Ziltendorf  Europe/Berlin  DE
+50.898424  14.81682  Zittau Hp  Europe/Berlin  DE
+50.890235  14.814753  Zittau SΓΌd  Europe/Berlin  DE
+50.890685  14.792253  Zittau Vorstadt  Europe/Berlin  DE
+51.123577  14.750741  Zoblitz  Europe/Berlin  DE
+51.504612  12.033454  ZΓ¶beritz  Europe/Berlin  DE
+50.660111  13.213684  ZΓ¶blitz-Pobershau  Europe/Berlin  DE
+51.882932  12.731557  ZΓ¶rnigall  Europe/Berlin  DE
+51.168964  13.156764  Zschaitz  Europe/Berlin  DE
+51.467693  11.865122  Zscherben  Europe/Berlin  DE
+50.743244  13.066189  Zschopau  Europe/Berlin  DE
+51.483263  12.361588  Zschortau  Europe/Berlin  DE
+52.732664  13.403365  ZΓΌhlsdorf  Europe/Berlin  DE
+51.900281  10.671723  Stapelburg  Europe/Berlin  DE
+50.736987  12.479742  Zwickau-PΓ¶lbitz  Europe/Berlin  DE
+50.70166  12.495077  Zwickau-Schedewitz  Europe/Berlin  DE
+50.632236  12.797897  ZwΓ¶nitz  Europe/Berlin  DE
+50.351134  12.39999  "Zwota-ZechenbaCH"  Europe/Berlin  DE
+50.352662  12.42755  Zwota  Europe/Berlin  DE
+51.795656  10.961086  Blankenburg (Harz)  Europe/Berlin  DE
+51.056167  13.72411  Dresden Mitte  Europe/Berlin  DE
+51.013423  13.661679  Freital-Potschappel  Europe/Berlin  DE
+51.208292  12.271354  GroΓ​ Dalzig  Europe/Berlin  DE
+51.445391  11.967006  Halle-SilberhΓ¶he  Europe/Berlin  DE
+51.038126  13.735849  Dresden Hbf Strehlener StraΓ​e  Europe/Berlin  DE
+50.861937  12.953878  Chemnitz-Hilbersdorf  Europe/Berlin  DE
+50.452119  11.642172  Bad Lobenstein  Europe/Berlin  DE
+52.145705  11.675576  Magdeburg Herrenkrug  Europe/Berlin  DE
+52.109199  11.630036  Magdeburg-Buckau  Europe/Berlin  DE
+50.728304  12.782337  Niederdorf (Erzgeb)  Europe/Berlin  DE
+50.486242  12.129378  Plauen (V) unt Bf  Europe/Berlin  DE
+52.000529  11.757378  SchΓ¶nebeck-Felgeleben  Europe/Berlin  DE
+52.262349  12.926056  Beelitz-HeilstΓ¤tten  Europe/Berlin  DE
+52.23939  12.966858  Beelitz Stadt  Europe/Berlin  DE
+52.675834  13.592292  Bernau (b Berlin)  Europe/Berlin  DE
+51.20324  12.382038  BΓ¶hlen (Leipzig)  Europe/Berlin  DE
+52.582544  13.001395  Brieselang  Europe/Berlin  DE
+51.384606  11.957558  Buna Werke  Europe/Berlin  DE
+51.050854  11.704683  Camburg (Saale)  Europe/Berlin  DE
+51.055879  13.708693  Dresden-Friedrichstadt  Europe/Berlin  DE
+51.03008  13.70356  Dresden-Plauen  Europe/Berlin  DE
+52.428559  13.751167  Erkner  Europe/Berlin  DE
+52.559775  13.089633  Falkensee  Europe/Berlin  DE
+52.303555  12.964072  Ferch-Lienewitz  Europe/Berlin  DE
+52.409259  12.97173  Golm  Europe/Berlin  DE
+52.63826  13.20545  Hennigsdorf (Berlin)  Europe/Berlin  DE
+52.097675  11.638091  Magdeburg SKET Industriepark  Europe/Berlin  DE
+50.425196  12.397347  Muldenberg  Europe/Berlin  DE
+52.754454  13.249111  Oranienburg  Europe/Berlin  DE
+52.516815  12.97147  Priort  Europe/Berlin  DE
+51.110471  13.59907  Radebeul-Naundorf  Europe/Berlin  DE
+52.291842  12.985448  Seddin  Europe/Berlin  DE
+51.298732  14.831895  Niesky  Europe/Berlin  DE
+50.85409  14.752502  TeufelsmΓΌhle  Europe/Berlin  DE
+54.362121  13.502454  Beuchow  Europe/Berlin  DE
+51.007796  10.232942  HΓ¶rschel Hp  Europe/Berlin  DE
+51.002708  10.171905  Herleshausen Hp  Europe/Berlin  DE
+51.643019  10.928437  Albrechtshaus  Europe/Berlin  DE
+51.648134  11.115314  Alexisbad  Europe/Berlin  DE
+51.673546  10.714809  Benneckenstein  Europe/Berlin  DE
+51.639657  10.876327  Birkenmoor  Europe/Berlin  DE
+51.799557  10.618561  Brocken  Europe/Berlin  DE
+51.663442  11.124636  Drahtzug  Europe/Berlin  DE
+51.770117  10.726764  Drei Annen Hohne  Europe/Berlin  DE
+51.620411  10.812953  Eisfelder TalmΓΌhle  Europe/Berlin  DE
+51.745972  10.690124  Elend  Europe/Berlin  DE
+51.63963  10.937615  FriedrichshΓ¶he  Europe/Berlin  DE
+51.644143  10.985465  GΓΌntersberge  Europe/Berlin  DE
+51.643459  11.142641  "HarzgeroDE"  Europe/Berlin  DE
+51.687695  10.850905  "HasselfelDE"  Europe/Berlin  DE
+51.578413  10.789536  Ilfeld  Europe/Berlin  DE
+51.670139  11.132771  MΓ¤gdesprung  Europe/Berlin  DE
+51.602406  10.789617  Netzkater  Europe/Berlin  DE
+51.549441  10.768726  Niedersachswerfen Ost  Europe/Berlin  DE
+51.508046  10.778956  Nordhausen-Altentor  Europe/Berlin  DE
+51.52926  10.773985  "Nordhausen-KrimderoDE"  Europe/Berlin  DE
+51.493933  10.788412  Nordhausen Nord  Europe/Berlin  DE
+51.720614  11.160692  "OsterteiCH"  Europe/Berlin  DE
+51.765074  10.678007  Schierke  Europe/Berlin  DE
+51.628996  11.091798  SilberhΓΌtte NE  Europe/Berlin  DE
+51.693287  10.697091  Sorge  Europe/Berlin  DE
+51.816699  10.727007  Steinerne Renne  Europe/Berlin  DE
+51.69859  11.132582  Sternhaus-Haferfeld  Europe/Berlin  DE
+51.690311  11.127495  Sternhaus-Ramberg  Europe/Berlin  DE
+51.6608  10.88119  Stiege  Europe/Berlin  DE
+51.619854  11.044138  StraΓ​berg (Harz)  Europe/Berlin  DE
+51.636088  10.81351  TiefenbachmΓΌhle  Europe/Berlin  DE
+51.820205  10.742567  "Wernigerode-HasseroDE"  Europe/Berlin  DE
+51.826219  10.765688  Wernigerode-KirchstraΓ​e  Europe/Berlin  DE
+51.833815  10.780367  "WernigeroDE,Westerntor"  Europe/Berlin  DE
+51.64123  10.790192  Sophienhof  Europe/Berlin  DE
+50.354074  12.467319  Kraslice (Grenze)  Europe/Berlin  DE
+50.733904  13.573387  Holzhau Skilift  Europe/Berlin  DE
+50.868266  13.379958  Berthelsdorf (Erzgebirge) Ort  Europe/Berlin  DE
+54.345212  13.500755  "LauterbaCH,(RΓΌgen)"  Europe/Berlin  DE
+53.20556  12.214767  Falkenhagen Gewerbepark Prignitz  Europe/Berlin  DE
+53.14464  12.162234  Pritzwalk West  Europe/Berlin  DE
+54.000728  14.064522  Neu Pudagla  Europe/Berlin  DE
+50.79637  12.917939  Chemnitz Alt Chemnitz Center  Europe/Berlin  DE
+50.785385  12.925472  Chemnitz RiemenschneiderstraΓ​e  Europe/Berlin  DE
+50.811211  12.91197  Chemnitz Erdmannsdorfer StraΓ​e  Europe/Berlin  DE
+50.825594  12.920267  Chemnitz Gustav-Freytag-StraΓ​e  Europe/Berlin  DE
+50.764467  12.625861  Siedlung  Europe/Berlin  DE
+50.775461  12.632136  Lichtenstein Gewerbegebiet  Europe/Berlin  DE
+50.746066  12.63619  Lichtenstein Hartensteiner StraΓ​e  Europe/Berlin  DE
+50.829756  12.919935  Chemnitz Moritzhof  Europe/Berlin  DE
+50.727602  12.698225  Oelsnitz BahnhofstraΓ​e  Europe/Berlin  DE
+50.816883  12.914119  Chemnitz RΓ¶sslerstraΓ​e  Europe/Berlin  DE
+50.834196  12.922676  Chemnitz Roter Turm  Europe/Berlin  DE
+50.802276  12.911341  Chemnitz ScheffelstraΓ​e  Europe/Berlin  DE
+50.794033  12.922443  Chemnitz Schneeberger StraΓ​e  Europe/Berlin  DE
+50.798923  12.913103  Chemnitz Schule Altchemnitz  Europe/Berlin  DE
+50.714226  12.778786  Stollberg SchlachthofstraΓ​e  Europe/Berlin  DE
+50.837307  12.925724  Chemnitz Theaterplatz  Europe/Berlin  DE
+50.820317  12.91624  Chemnitz TreffurthstraΓ​e  Europe/Berlin  DE
+50.806069  12.911853  Chemnitz UhlestraΓ​e  Europe/Berlin  DE
+50.831608  12.922191  Chemnitz Zentralhaltestelle  Europe/Berlin  DE
+50.790806  12.926065  Chemnitz-Altchemnitz  Europe/Berlin  DE
+50.772288  12.903754  "KlaffenbaCH,Hp"  Europe/Berlin  DE
+50.743046  12.675725  Hohndorf Mitte  Europe/Berlin  DE
+48.555215  12.102545  Altdorf (Niederbay)  Europe/Berlin  DE
+48.574389  12.066184  "PfettraCH"  Europe/Berlin  DE
+48.618949  11.995682  Neuhausen (b Landshut)  Europe/Berlin  DE
+48.612872  13.422584  "TiefenbaCH,(b Passau)"  Europe/Berlin  DE
+48.257942  8.83778  Endingen (WΓΌrtt)  Europe/Berlin  DE
+48.255047  8.816422  Erzingen (WΓΌrtt)  Europe/Berlin  DE
+48.228457  8.781121  Dotternhausen-Dormettingen  Europe/Berlin  DE
+48.205742  8.758504  SchΓ¶mberg (b Rottweil)  Europe/Berlin  DE
+54.90631  8.311012  SyltShuttle  Europe/Berlin  DE
+52.515701  13.647773  Birkenstein  Europe/Berlin  DE
+50.051218  8.57125  Frankfurt (M) Flughafen Regionalbf  Europe/Berlin  DE
+48.669288  10.155886  Heidenheim Voithwerk  Europe/Berlin  DE
+49.119549  8.594379  Bruchsal TunnelstraΓ​e  Europe/Berlin  DE
+49.118929  8.609715  Bruchsal Schlachthof  Europe/Berlin  DE
+49.105112  8.645249  Heidelsheim Nord  Europe/Berlin  DE
+49.06574  8.662868  Gondelsheim SchloΓ​stadion  Europe/Berlin  DE
+49.039347  8.674473  Diedelsheim  Europe/Berlin  DE
+50.615534  7.312724  Kalenborn (Westerw)  Europe/Berlin  DE
+50.585555  7.259895  "KasbaCH"  Europe/Berlin  DE
+49.009809  8.526807  Hummelberg  Europe/Berlin  DE
+50.592135  7.259131  "KasbaCH,Brauerei Steffens"  Europe/Berlin  DE
+48.292272  9.099294  Burladingen West  Europe/Berlin  DE
+53.448808  9.008099  Basdahl Kluste  Europe/Berlin  DE
+50.776657  7.187891  St Augustin Markt  Europe/Berlin  DE
+50.716734  7.120598  Bonn Heussallee/Museumsmeile  Europe/Berlin  DE
+50.722281  7.15526  Bonn-Ramersdorf  Europe/Berlin  DE
+50.710046  7.174075  SΓΌd/RΓmlinghoven  Europe/Berlin  DE
+50.672768  7.192574  KΓnigswinter FΓ¤hre  Europe/Berlin  DE
+53.54421  8.568985  Bremerhaven SeebΓ¤derkaje  Europe/Berlin  DE
+55.015781  8.439801  List (Sylt)  Europe/Berlin  DE
+53.398864  9.013843  Gnarrenburg Nord  Europe/Berlin  DE
+50.115419  8.501673  Liederbach-SΓΌd  Europe/Berlin  DE
+50.643751  7.217232  Bad Honnef Stadtbahn  Europe/Berlin  DE
+50.676885  7.189239  StraΓ​e  Europe/Berlin  DE
+50.739306  7.117658  Bonn Konrad-Adenauer-Platz  Europe/Berlin  DE
+50.760197  7.165957  Hangelar Mitte  Europe/Berlin  DE
+48.830869  9.548998  Haubersbronn Mitte  Europe/Berlin  DE
+48.887609  9.534157  Rudersberg Nord  Europe/Berlin  DE
+52.374417  9.808112  Hannover Karl-Wiechert-Allee  Europe/Berlin  DE
+50.120516  8.857997  MΓΌhlheim (Main) Dietesheim  Europe/Berlin  DE
+50.105702  8.764096  "OffenbaCH,(Main) Marktplatz"  Europe/Berlin  DE
+50.105989  8.750486  "OffenbaCH,(Main) Ledermuseum"  Europe/Berlin  DE
+50.105333  8.738377  "OffenbaCH,(Main) Kaiserlei"  Europe/Berlin  DE
+49.036983  8.72368  "Bretten KupferhΓ¤lDE"  Europe/Berlin  DE
+49.580687  8.178997  Albsheim (Eis)  Europe/Berlin  DE
+49.241236  8.899932  Sinsheim Museum/Arena  Europe/Berlin  DE
+49.162715  8.628826  Ubstadt UhlandstraΓ​e  Europe/Berlin  DE
+49.182231  8.736382  Odenheim West  Europe/Berlin  DE
+50.736592  7.095266  Bonn Stadthaus  Europe/Berlin  DE
+47.650793  9.483907  Friedrichshafen FΓ¤hre  Europe/Berlin  DE
+53.563717  9.967203  Hamburg-Sternschanze  Europe/Berlin  DE
+49.140548  9.069163  Schwaigern Ost  Europe/Berlin  DE
+49.144197  9.130945  Leingarten Ost  Europe/Berlin  DE
+49.139316  9.166093  BΓ¶ckingen West  Europe/Berlin  DE
+49.140656  9.1912  B¶ckingen Sonnenbrunnen  Europe/Berlin  DE
+49.20483  12.924447  Hohenwarth Campingplatz  Europe/Berlin  DE
+50.079148  9.015767  "Kahl Kopp/HeiDE"  Europe/Berlin  DE
+50.099787  9.118298  "MichelbaCH,(Unterfr) HerrnmΓΌhle"  Europe/Berlin  DE
+50.079471  9.156223  "MΓ¶mbris-StrΓ¶tzbaCH"  Europe/Berlin  DE
+48.937796  8.280584  Durmersheim Nord  Europe/Berlin  DE
+49.142597  9.208351  Heilbronn Bahnhofsvorplatz  Europe/Berlin  DE
+49.141573  9.223058  Heilbronn Harmonie  Europe/Berlin  DE
+49.141941  9.219058  Heilbronn Rathaus  Europe/Berlin  DE
+49.142651  9.213754  Schumacher-Platz  Europe/Berlin  DE
+53.502932  8.571906  Bremerhaven Flugplatz  Europe/Berlin  DE
+53.390351  7.227695  Emden Flugplatz  Europe/Berlin  DE
+53.635487  7.190929  "NorddeiCH,Flugplatz"  Europe/Berlin  DE
+49.015787  8.609985  WΓ¶ssingen Ost  Europe/Berlin  DE
+54.472724  9.055193  Husum  Europe/Berlin  DE
+54.496869  8.807388  Nordstrand (b Husum)  Europe/Berlin  DE
+53.791818  9.913501  Alveslohe  Europe/Berlin  DE
+48.141415  11.559085  MΓΌnchen Hbf ArnulfstraΓ​e  Europe/Berlin  DE
+50.737437  7.102646  Bonn Bertha-von-Suttner-Platz  Europe/Berlin  DE
+50.729742  7.108696  Bonn Juridicum  Europe/Berlin  DE
+53.313673  8.97509  "OstersoDE"  Europe/Berlin  DE
+48.370999  9.642459  HΓΌtten  Europe/Berlin  DE
+48.849792  9.095851  MΓΌnchingen RΓΌhrberg  Europe/Berlin  DE
+47.543785  9.682263  Lindau Hafen  Europe/Berlin  DE
+50.680508  7.158559  Bonn-Bad Godesberg Stadthalle  Europe/Berlin  DE
+54.176287  7.892546  Helgoland (SΓΌdhafen)  Europe/Berlin  DE
+49.64478  8.096754  Albisheim (Pfrimm)  Europe/Berlin  DE
+49.640744  8.13788  Harxheim-Zell  Europe/Berlin  DE
+49.599375  8.016445  GΓ¶llheim-Dreisen  Europe/Berlin  DE
+54.375892  13.680916  Sellin (RΓΌgen) West  Europe/Berlin  DE
+54.911155  8.305097  Platz  Europe/Berlin  DE
+54.909061  8.305727  Westerland (Sylt) Alte Post  Europe/Berlin  DE
+54.920783  8.30997  Westerland (Sylt) WaldstraΓ​e  Europe/Berlin  DE
+54.898256  8.304846  Westerland (Sylt) Lerchenweg  Europe/Berlin  DE
+50.384161  8.063575  Limburg (Lahn) Bahnhof/SΓΌdseite  Europe/Berlin  DE
+50.382048  8.095487  Limburg SΓΌd ICE-Bahnhof  Europe/Berlin  DE
+48.885883  8.662347  BrΓ¶tzingen Sandweg  Europe/Berlin  DE
+48.882072  8.653987  BrΓ¶tzingen WohnlichstraΓ​e  Europe/Berlin  DE
+48.836937  8.590325  NeuenbΓΌrg (Enz) Freibad  Europe/Berlin  DE
+48.830159  8.5789  RotenbaCH,(Enz)  Europe/Berlin  DE
+48.817197  8.577866  NeuenbΓΌrg (Enz) EyachbrΓΌcke  Europe/Berlin  DE
+48.807704  8.581722  HΓ¶fen (Enz) Nord  Europe/Berlin  DE
+48.773392  8.566423  "CalmbaCH,SΓΌd"  Europe/Berlin  DE
+48.763972  8.554971  Bad Wildbad Nord  Europe/Berlin  DE
+48.750838  8.549361  Bad Wildbad Uhlandplatz  Europe/Berlin  DE
+48.748762  8.55008  Bad Wildbad Kurpark  Europe/Berlin  DE
+50.919171  14.073394  KΓ¶nigstein ReiΓ​iger Platz  Europe/Berlin  DE
+50.956036  14.078824  Kurort Rathen Parkplatz  Europe/Berlin  DE
+50.934273  14.013167  SΓΌdstraΓ​e  Europe/Berlin  DE
+50.947748  13.981624  Ebenheit  Europe/Berlin  DE
+53.023142  8.650858  "Delmenhorst-AnnenheiDE"  Europe/Berlin  DE
+48.404152  8.770091  Bad Imnau  Europe/Berlin  DE
+50.459175  7.299402  Bad TΓ¶nisstein  Europe/Berlin  DE
+49.774584  11.335658  BehringersmΓΌhle  Europe/Berlin  DE
+47.631412  7.621045  Binzen  Europe/Berlin  DE
+50.48101  7.331835  Brohl (Brohltalbahn)  Europe/Berlin  DE
+50.458007  7.283725  Burgbrohl  Europe/Berlin  DE
+49.783223  11.284554  Burggaillenreuth  Europe/Berlin  DE
+53.533873  9.444696  Deinste  Europe/Berlin  DE
+53.048437  8.640719  Delmenhorst-SΓΌd  Europe/Berlin  DE
+49.068373  10.32918  DinkelsbΓΌhl Bf  Europe/Berlin  DE
+52.924917  8.627576  DΓΌnsen DHE  Europe/Berlin  DE
+50.425115  7.156564  Engeln  Europe/Berlin  DE
+47.821066  8.553164  Epfenhofen  Europe/Berlin  DE
+48.242948  9.210455  Gammertingen EuropastraΓ​e  Europe/Berlin  DE
+48.971281  10.460288  Fremdingen Bf  Europe/Berlin  DE
+47.807735  8.534502  FΓΌtzen  Europe/Berlin  DE
+49.795799  11.19993  Gasseldorf  Europe/Berlin  DE
+48.399118  9.392136  Gomadingen  Europe/Berlin  DE
+49.775483  11.306587  GΓ¶Γ​weinstein  Europe/Berlin  DE
+52.950428  8.632035  GroΓ​ Ippener DHE  Europe/Berlin  DE
+52.997424  8.703571  GroΓ​ Mackenstedt DHE  Europe/Berlin  DE
+48.361489  9.261783  Haidkapelle  Europe/Berlin  DE
+48.370199  8.801302  "HaigerloCH"  Europe/Berlin  DE
+47.690291  7.644148  Hammerstein  Europe/Berlin  DE
+52.911541  8.60078  Harpstedt DHE  Europe/Berlin  DE
+48.287525  9.221934  MΓ¤gerkingen  Europe/Berlin  DE
+48.383243  9.421585  "MarbaCH,(b MΓΌnsingen)"  Europe/Berlin  DE
+51.080618  7.531468  "MarienheiDE"  Europe/Berlin  DE
+49.803889  11.256283  Muggendorf  Europe/Berlin  DE
+48.420323  8.760167  MΓΌhringen  Europe/Berlin  DE
+48.409716  9.490271  MΓΌnsingen  Europe/Berlin  DE
+50.461171  7.223111  Niederzissen  Europe/Berlin  DE
+50.455229  7.201222  Oberzissen  Europe/Berlin  DE
+48.945338  10.600682  Oettingen (Bay)  Europe/Berlin  DE
+48.399576  9.369888  Offenhausen  Europe/Berlin  DE
+48.381472  8.893001  Rangendingen  Europe/Berlin  DE
+47.642927  7.640705  RΓΌmmingen  Europe/Berlin  DE
+53.00839  8.679678  Stelle DHE  Europe/Berlin  DE
+48.353416  8.812736  Stetten (Haigerloch)  Europe/Berlin  DE
+49.80788  11.217108  Streitberg  Europe/Berlin  DE
+48.307544  9.246268  Trochtelfingen (Hohenz)  Europe/Berlin  DE
+49.078864  12.889254  "ViechtaCH"  Europe/Berlin  DE
+49.044912  10.607603  WassertrΓΌdingen  Europe/Berlin  DE
+47.656627  7.646979  Wittlingen  Europe/Berlin  DE
+47.668214  7.648633  "WollbaCH,(Baden)"  Europe/Berlin  DE
+48.56193  8.908849  Altingen (WΓΌrtt)  Europe/Berlin  DE
+49.070998  13.002258  "Gumpenried-AsbaCH"  Europe/Berlin  DE
+49.168612  10.324191  Feuchtwangen Bf  Europe/Berlin  DE
+48.577491  8.881558  GΓΌltstein  Europe/Berlin  DE
+49.02509  10.397013  Wilburgstetten Bf  Europe/Berlin  DE
+47.946322  9.378823  "OstraCH,Bahnhof"  Europe/Berlin  DE
+47.922959  9.255176  Pfullendorf  Europe/Berlin  DE
+50.769861  6.07384  Aachen Schanz  Europe/Berlin  DE
+53.568077  9.703414  Wedel-Schulau Wilkomm HΓ¶ft  Europe/Berlin  DE
+49.493392  11.078629  NΓΌrnberg Flughafen  Europe/Berlin  DE
+49.429443  11.044147  NΓΌrnberg Hohe Marter  Europe/Berlin  DE
+49.446756  11.074899  NΓΌrnberg Opernhaus  Europe/Berlin  DE
+49.461121  11.093291  NΓΌrnberg Rennweg  Europe/Berlin  DE
+49.465283  11.100698  NΓΌrnberg Schoppershof  Europe/Berlin  DE
+49.439502  11.051635  NΓΌrnberg St-Leonhard  Europe/Berlin  DE
+49.452384  11.086594  NΓΌrnberg WΓ¶hrder Wiese  Europe/Berlin  DE
+49.44824  11.064318  NΓΌrnberg PlΓ¤rrer Richtung Hbf  Europe/Berlin  DE
+49.448249  11.064318  NΓΌrnberg PlΓ¤rrer  Europe/Berlin  DE
+49.447134  11.082539  NΓΌrnberg Hbf (U-Bahn)  Europe/Berlin  DE
+50.725634  7.1116  Amt  Europe/Berlin  DE
+50.721786  7.114503  Bonn Museum Koenig  Europe/Berlin  DE
+50.736601  7.081252  Bonn West  Europe/Berlin  DE
+50.740313  7.06891  Bonn BrΓΌhler StraΓ​e  Europe/Berlin  DE
+50.706855  7.130971  /Olof-Palme-Allee  Europe/Berlin  DE
+50.71108  7.126908  OllenhauerstraΓ​e  Europe/Berlin  DE
+50.712474  7.139763  Bonn-Hochkreuz Rheinaue  Europe/Berlin  DE
+50.739396  7.12049  Bonn-Beuel Rathaus  Europe/Berlin  DE
+50.739927  7.1252  Bonn Obere WilhelmstraΓ​e  Europe/Berlin  DE
+50.747217  7.125191  AdelheidisstraΓ​e  Europe/Berlin  DE
+50.754192  7.147026  Bonn-Vilich-MΓΌldorf  Europe/Berlin  DE
+50.75092  7.129335  "Bonn-ViliCH"  Europe/Berlin  DE
+50.727638  7.141956  "Bonn-LimperiCH,KΓΌdinghoven  "  Europe/Berlin  DE
+50.729041  7.136185  "Bonn-LimperiCH"  Europe/Berlin  DE
+50.716519  7.165166  Bonn-Oberkassel Nord  Europe/Berlin  DE
+50.712599  7.171063  Bonn-Oberkassel Mitte  Europe/Berlin  DE
+50.691421  7.148356  Bonn-Plittersdorf WurzerstraΓ​e  Europe/Berlin  DE
+50.687762  7.153867  StraΓ​e  Europe/Berlin  DE
+50.696832  7.141444  Museum Bonn  Europe/Berlin  DE
+50.70085  7.137489  StraΓ​e/Friesdorf  Europe/Berlin  DE
+50.706496  7.137686  Bonn Robert-Schuman-Platz  Europe/Berlin  DE
+50.702487  7.179198  KΓ¶nigswinter-Oberdollendorf Nord  Europe/Berlin  DE
+50.696086  7.184664  KΓ¶nigswinter-Oberdollendorf  Europe/Berlin  DE
+50.668678  7.196422  KΓ¶nigswinter Denkmal  Europe/Berlin  DE
+50.684454  7.186713  KΓ¶nigswinter-Longenburg  Europe/Berlin  DE
+50.758139  7.15873  Hangelar West  Europe/Berlin  DE
+50.763568  7.171558  Hangelar Ost  Europe/Berlin  DE
+50.770265  7.180421  St Augustin Ort  Europe/Berlin  DE
+50.773798  7.184997  St Augustin Kloster  Europe/Berlin  DE
+50.784738  7.193455  St Augustin-MΓΌlldorf  Europe/Berlin  DE
+50.732385  7.10217  Bonn UniversitΓ¤t/Markt  Europe/Berlin  DE
+50.648542  7.215083  "Bad Honnef am SpitzenbaCH"  Europe/Berlin  DE
+50.730479  7.132212  "Bonn-LimperiCH,Nord"  Europe/Berlin  DE
+50.725616  7.14681  Bonn-Ramersdorf SchieΓ​bergweg  Europe/Berlin  DE
+51.583411  10.788529  Ilfeld Neanderklinik  Europe/Berlin  DE
+51.493951  10.78932  Nordhausen Bahnhofsplatz  Europe/Berlin  DE
+48.353362  11.786152  MΓΌnchen Flughafen Terminal 1  Europe/Berlin  DE
+48.355682  11.790116  MΓΌnchen Flughafen Terminal 2  Europe/Berlin  DE
+49.14053  9.235013  Heilbronn Finanzamt  Europe/Berlin  DE
+49.141312  9.228775  Heilbronn Friedensplatz  Europe/Berlin  DE
+49.139955  9.241378  Heilbronn PfΓΌhlpark  Europe/Berlin  DE
+53.683345  7.360349  NeΓ​mersiel Hafen  Europe/Berlin  DE
+47.952947  12.279273  Halfing  Europe/Berlin  DE
+47.985838  12.306295  Amerang  Europe/Berlin  DE
+47.998783  12.403154  Obing  Europe/Berlin  DE
+50.323357  11.493517  Mauthaus  Europe/Berlin  DE
+50.35722  11.517123  DΓΌrrenwaid Bahnhof  Europe/Berlin  DE
+48.656236  13.439952  Fischhaus  Europe/Berlin  DE
+48.689991  13.45331  Kalteneck  Europe/Berlin  DE
+48.718855  13.470425  FΓΌrsteneck  Europe/Berlin  DE
+48.737049  13.526131  "RΓ¶hrnbaCH"  Europe/Berlin  DE
+48.831849  12.142664  Schierling  Europe/Berlin  DE
+48.821053  12.053473  Langquaid (b EggmΓΌhl)  Europe/Berlin  DE
+51.118615  11.977137  Krauschwitz Ort  Europe/Berlin  DE
+51.118301  11.856088  Mertendorf Ort  Europe/Berlin  DE
+50.613206  12.249016  Netzschkau Markt  Europe/Berlin  DE
+53.144155  12.359799  "HeiligengraBE,Feuerwehr"  Europe/Berlin  DE
+48.364896  9.715289  Schmiechen Albbahn  Europe/Berlin  DE
+47.928829  8.469546  BrΓ¤unlingen Industriegebiet  Europe/Berlin  DE
+49.154445  8.97758  Gemmingen West  Europe/Berlin  DE
+49.138813  9.042474  Schwaigern (WΓΌrtt) West  Europe/Berlin  DE
+49.145609  9.112742  Leingarten Mitte  Europe/Berlin  DE
+47.663099  9.177716  Konstanz KonzilstraΓ​e  Europe/Berlin  DE
+50.766813  6.565172  JakobwΓΌllesheim  Europe/Berlin  DE
+47.660213  9.177276  Konstanz MarktstΓ¤tte  Europe/Berlin  DE
+50.683933  7.158775  Bonn-Bad Godesberg Bahnhof  Europe/Berlin  DE
+50.738515  7.127115  Bonn-Beuel Bahnhof  Europe/Berlin  DE
+54.621136  8.969706  Bredstedt Bahnhof  Europe/Berlin  DE
+49.726528  9.533887  Reicholzheim Ort  Europe/Berlin  DE
+48.353327  11.786125  Ankunftebene Halt22  Europe/Berlin  DE
+50.772854  12.919368  Chemnitz FriedrichstraΓ​e  Europe/Berlin  DE
+49.10158  8.643577  Heidelsheim Marktplatz  Europe/Berlin  DE
+48.860048  8.216257  Rastatt Bahnhof Ost  Europe/Berlin  DE
+50.778409  6.552165  Bubenheim  Europe/Berlin  DE
+50.792855  6.535814  Binsfeld  Europe/Berlin  DE
+54.124599  8.86082  BΓΌsum (Hafen)  Europe/Berlin  DE
+47.667405  9.179487  Konstanz Sternenplatz  Europe/Berlin  DE
+49.446568  11.081694  Hauptausgang)  Europe/Berlin  DE
+50.911198  13.39043  MuldenhΓΌtten Hilbersdorf Gasthof  Europe/Berlin  DE
+50.713229  12.395774  Steinpleis Post  Europe/Berlin  DE
+53.875894  8.701567  Cuxhaven (FΓ¤hrhafen)  Europe/Berlin  DE
+53.871768  8.70963  Cuxhaven (Alte Liebe)  Europe/Berlin  DE
+47.65855  9.17679  Konstanz Schweizer Bahnhof  Europe/Berlin  DE
+50.467302  7.309767  Schweppenburg-Heilbrunnen  Europe/Berlin  DE
+49.007292  8.727015  Ruit Knittlinger StraΓ​e  Europe/Berlin  DE
+49.063286  8.657124  Gondelsheim Graf-Douglas-StraΓ​e  Europe/Berlin  DE
+47.672879  9.183685  Konstanz ZΓ¤hringerplatz  Europe/Berlin  DE
+50.812371  12.796746  GrΓΌna PoststraΓ​e  Europe/Berlin  DE
+50.633881  12.808558  ZwΓ¶nitz Gymnasium  Europe/Berlin  DE
+50.432442  7.168888  Brenk  Europe/Berlin  DE
+49.061083  8.657133  Gondelsheim Marktplatz  Europe/Berlin  DE
+50.819688  12.876912  Wendeanlage  Europe/Berlin  DE
+49.105894  8.640269  Heidelsheim Schwimmbad  Europe/Berlin  DE
+48.981942  8.750675  Γ–lbronn HindenburgstraΓ​e  Europe/Berlin  DE
+50.459014  7.258447  Weiler (Brohltal)  Europe/Berlin  DE
+47.987043  12.35774  Aindorf  Europe/Berlin  DE
+51.160037  12.938111  Leisnig Bf  Europe/Berlin  DE
+48.211288  8.771332  SchΓ¶mberg Stausee  Europe/Berlin  DE
+47.986764  12.376339  Pittenhart  Europe/Berlin  DE
+50.898568  13.434028  "NiederbobritzsCH,Goldener LΓ¶we  "  Europe/Berlin  DE
+51.380992  12.322889  Leipzig-Wahren Rathaus  Europe/Berlin  DE
+50.941716  6.974065  KΓ¶ln Messe/Deutz Gleis 11-12  Europe/Berlin  DE
+47.659863  9.179541  Konstanz Hafen  Europe/Berlin  DE
+52.288202  11.676304  Zielitz Ort  Europe/Berlin  DE
+47.587338  9.598124  Kressbronn Hafen  Europe/Berlin  DE
+47.596102  9.539271  Langenargen Hafen  Europe/Berlin  DE
+50.361031  7.605359  Koblenz KD  Europe/Berlin  DE
+50.313011  7.592307  Niederlahnstein KD  Europe/Berlin  DE
+50.298943  7.603723  Oberlahnstein KD  Europe/Berlin  DE
+50.283293  7.619184  Rhens KD  Europe/Berlin  DE
+50.27238  7.642511  "BraubaCH,KD"  Europe/Berlin  DE
+50.233151  7.592936  Boppard KD  Europe/Berlin  DE
+50.226166  7.617009  Kamp-Bornhofen KD  Europe/Berlin  DE
+50.153686  7.716466  St Goarshausen KD  Europe/Berlin  DE
+50.15169  7.714983  St Goar KD  Europe/Berlin  DE
+50.108668  7.727496  Oberwesel KD  Europe/Berlin  DE
+50.086645  7.762302  Kaub KD  Europe/Berlin  DE
+50.05769  7.770877  "BacharaCH,KD"  Europe/Berlin  DE
+50.044989  7.795049  "LorCH,(Rhein) KD"  Europe/Berlin  DE
+49.986945  7.865309  Assmannshausen KD  Europe/Berlin  DE
+49.970279  7.896753  Bingen (Rhein) KD  Europe/Berlin  DE
+49.976994  7.917824  RΓΌdesheim (Rhein) KD  Europe/Berlin  DE
+50.02283  8.118643  Eltville KD  Europe/Berlin  DE
+50.036233  8.2366  Wiesbaden-BiebriCH,KD  "  Europe/Berlin  DE
+50.001984  8.277509  Mainz KD  Europe/Berlin  DE
+50.344887  7.554912  Koblenz MoselweiΓ​ Anleger  Europe/Berlin  DE
+50.312499  7.521103  Winningen (Mosel) KD  Europe/Berlin  DE
+50.291311  7.461649  Kobern-Gondorf SF  Europe/Berlin  DE
+50.249547  7.44616  Alken KD  Europe/Berlin  DE
+50.22809  7.445612  "BrodenbaCH,KD  "  Europe/Berlin  DE
+50.189499  7.368817  Moselkern KD  Europe/Berlin  DE
+50.175197  7.29907  Treis SF  Europe/Berlin  DE
+50.148176  7.167656  Cochem (Mosel) KD  Europe/Berlin  DE
+50.254114  9.294945  "WΓ¤chtersbaCH,Bahnhof  "  Europe/Berlin  DE
+53.708434  7.809333  Harlesiel Anleger  Europe/Berlin  DE
+53.70563  7.815734  Harlesiel Flugplatz  Europe/Berlin  DE
+47.565665  9.630224  Wasserburg Hafen  Europe/Berlin  DE
+53.513611  8.14464  Wilhelmshaven Helgolandkai  Europe/Berlin  DE
+53.701818  7.70335  Neuharlingersiel Anleger  Europe/Berlin  DE
+48.58692  8.125834  Kappelrodeck Ost  Europe/Berlin  DE
+50.08944  9.051256  Alzenau Nord  Europe/Berlin  DE
+50.087849  9.074062  Alzenau Burg  Europe/Berlin  DE
+49.3071  8.942271  Neckarbischofsheim Nord  Europe/Berlin  DE
+54.73049  8.729838  DagebΓΌll Kirche  Europe/Berlin  DE
+47.744532  8.975306  Haselbrunn  Europe/Berlin  DE
+47.841346  8.964726  Nenzingen  Europe/Berlin  DE
+47.787653  8.976223  Stahringen  Europe/Berlin  DE
+47.850092  9.005735  "StockaCH,NE  "  Europe/Berlin  DE
+47.814171  8.965229  Wahlwies  Europe/Berlin  DE
+54.578509  8.556625  Hallig Hooge  Europe/Berlin  DE
+54.618475  8.548498  Hallig LangeneΓ​  Europe/Berlin  DE
+54.682011  8.754855  SchlΓΌttsiel  Europe/Berlin  DE
+54.501687  8.700497  Pellworm  Europe/Berlin  DE
+47.557368  9.664968  Bad Schachen  Europe/Berlin  DE
+47.705717  9.201529  Mainau (Bodensee)  Europe/Berlin  DE
+47.74099  9.157805  Dingelsdorf  Europe/Berlin  DE
+47.695424  8.693324  BΓΌsingen  Europe/Berlin  DE
+47.679459  8.982318  Gaienhofen  Europe/Berlin  DE
+47.671989  8.968942  Hemmenhofen  Europe/Berlin  DE
+47.652096  8.894313  Γ–hningen  Europe/Berlin  DE
+47.658658  8.930279  Wangen (Bodensee)  Europe/Berlin  DE
+49.12319  8.408249  Linkenheim Rathaus  Europe/Berlin  DE
+54.754284  8.8127  MaasbΓΌll (b NiebΓΌll)  Europe/Berlin  DE
+54.777018  8.818408  DeezbΓΌll  Europe/Berlin  DE
+53.717055  9.991725  Moorbekhalle  Europe/Berlin  DE
+53.728561  9.988885  "FriedrichsgaBE, "  Europe/Berlin  DE
+53.744571  9.986763  Haslohfurth  Europe/Berlin  DE
+53.754225  9.979626  Meeschensee  Europe/Berlin  DE
+53.707688  9.992382  Norderstedt Mitte  Europe/Berlin  DE
+53.734377  9.990071  Quickborner StraΓ​e  Europe/Berlin  DE
+50.251758  9.318092  Aufenau Kindergarten  Europe/Berlin  DE
+49.009557  8.404554  Karlsruhe Marktplatz (KaiserstraΓ​e)  Europe/Berlin  DE
+48.994347  8.399583  Karlsruhe Bahnhofsvorplatz  Europe/Berlin  DE
+49.129545  8.415719  Hochstetten GrenzstraΓ​e  Europe/Berlin  DE
+48.993718  8.396014  Karlsruhe Albtalbf  Europe/Berlin  DE
+49.009233  8.404051  Karlsruhe Marktplatz (Pyramide)  Europe/Berlin  DE
+49.052912  8.388832  Karlsruhe-Neureut Kirchfeld  Europe/Berlin  DE
+48.89765  8.474625  Spielberg  Europe/Berlin  DE
+47.985614  8.809437  Tuttlingen Zentrum  Europe/Berlin  DE
+49.00526  8.504047  GrΓ¶tzingen OberausstraΓ​e  Europe/Berlin  DE
+49.030942  8.569974  JΓ¶hlingen West  Europe/Berlin  DE
+49.036713  8.673871  Rinklingen  Europe/Berlin  DE
+49.030394  8.709396  Bretten Wannenweg  Europe/Berlin  DE
+52.010282  8.590811  Oldentrup  Europe/Berlin  DE
+47.759348  8.840560  Singen (Htw) Bahnhof  Europe/Berlin  DE
+48.578479  9.873499  Amstetten (W) Lokalbahn  Europe/Berlin  DE
+49.132673  8.904759  Eppingen West  Europe/Berlin  DE
+49.08397  8.775008  Oberderdingen-Flehingen Industrie  Europe/Berlin  DE
+49.114704  7.801953  Bruchweiler  Europe/Berlin  DE
+49.148557  7.777206  Dahn SΓΌd  Europe/Berlin  DE
+49.585685  7.139439  Nohfelden  Europe/Berlin  DE
+53.921964  14.21555  Ahlbeck Grenze  Europe/Berlin  DE
+49.154373  7.771453  Dahn  Europe/Berlin  DE
+49.102353  7.806151  "Bundenthal-RumbaCH, "  Europe/Berlin  DE
+49.197495  7.750571  Hinterweidenthal Ort  Europe/Berlin  DE
+48.211504  8.996925  Albstadt-Ebingen West  Europe/Berlin  DE
+48.931432  8.633941  Ersingen West  Europe/Berlin  DE
+48.152624  9.853408  Γ„pfingen  Europe/Berlin  DE
+48.071065  9.947364  Ochsenhausen  Europe/Berlin  DE
+48.109045  9.939813  Reinstetten  Europe/Berlin  DE
+52.393969  9.717267  Hannover-Nordstadt  Europe/Berlin  DE
+52.408783  9.691117  Hannover-Ledeburg  Europe/Berlin  DE
+48.144732  9.826899  Barabein  Europe/Berlin  DE
+48.139437  9.808462  HerrlishΓ¶fen  Europe/Berlin  DE
+48.151932  9.863189  Sulmingen  Europe/Berlin  DE
+48.1194  9.902741  W"ennedaCH, "  Europe/Berlin  DE
+53.5636  6.756454  Borkum ReeDE, "  Europe/Berlin  DE
+49.138867  7.799706  Busenberg-Schindhard  Europe/Berlin  DE
+48.133253  9.877616  Maselheim  Europe/Berlin  DE
+49.008811  8.417876  Karlsruhe Durlacher Tor  Europe/Berlin  DE
+49.010663  8.359500  Karlsruhe Entenfang  Europe/Berlin  DE
+49.035014  8.336614  RheinbergstraΓ​e  Europe/Berlin  DE
+47.689977  9.054438  Insel Reichenau  Europe/Berlin  DE
+50.510126  13.098748  JΓ¶hstadt  Europe/Berlin  DE
+50.518639  13.103170  JΓ¶hstadt SchlΓ¶ssel  Europe/Berlin  DE
+50.523071  13.104420  JΓ¶hstadt Loreleifelsen  Europe/Berlin  DE
+50.531943  13.131100  "SchmalzgruBE"  Europe/Berlin  DE
+50.557122  13.150076  "SteinbaCH,(bei JΓ¶hstadt)  Europe/Berlin  DE
+50.536204  13.129015  "SchmalzgruBE,Forellenhof  Europe/Berlin  DE
+50.546847  13.139262  "SteinbaCH,(b JΓ¶hstadt) Stolln  Europe/Berlin  DE
+51.037416  6.881916  KΓ¶ln-Blumenberg  Europe/Berlin  DE
+49.050844  8.254263  WΓ¶rth (Rhein) BΓΌrgerpark  Europe/Berlin  DE
+49.049784  8.260879  WΓ¶rth (Rhein) Bienwaldhalle  Europe/Berlin  DE
+49.048615  8.266462  WΓ¶rth (Rhein) Alte Bahnmeisterei  Europe/Berlin  DE
+49.010456  8.386728  Karlsruhe MΓΌhlburger Tor  Europe/Berlin  DE
+49.386196  8.045237  Neidenfels  Europe/Berlin  DE
+49.203131  7.773044  Hinterweidenthal Ost  Europe/Berlin  DE
+49.146481  8.662023  StraΓ​e  Europe/Berlin  DE
+50.007081  8.700919  Dreieich-Weibelfeld  Europe/Berlin  DE
+51.598217  11.412192  "VatterΓ¶der TeiCH,  Europe/Berlin  DE
+54.756226  8.288198  HΓ¶rnum Mitte  Europe/Berlin  DE
+54.771031  8.286355  HΓ¶rnum Nord  Europe/Berlin  DE
+54.762465  8.286705  HΓ¶rnum Steintal  Europe/Berlin  DE
+54.962043  8.341728  Kampen Dikstieg  Europe/Berlin  DE
+54.950132  8.339095  Kampen SΓΌd  Europe/Berlin  DE
+54.901564  8.363213  Keitum Kirche  Europe/Berlin  DE
+55.017947  8.421085  List Schule  Europe/Berlin  DE
+55.019862  8.435765  List (Sylt) Alte BahnhofstraΓ​e  Europe/Berlin  DE
+55.021381  8.429724  List am BrΓΌnk  Europe/Berlin  DE
+55.0149  8.426461  List (Sylt) DΓΌnenstraΓ​e  Europe/Berlin  DE
+55.008077  8.408294  List MellhΓ¶rn  Europe/Berlin  DE
+55.012455  8.419791  List SΓΌderhΓ¶rn  Europe/Berlin  DE
+54.871144  8.419215  Morsum SkellinghΓ¶rn  Europe/Berlin  DE
+54.790745  8.288647  MΓ¶skental  Europe/Berlin  DE
+54.916162  8.355023  "MunkmarsCH,Mitte  "  Europe/Berlin  DE
+54.942348  8.333944  NorddΓ¶rfer Schule  Europe/Berlin  DE
+54.864375  8.293645  Rantum Campingplatz  Europe/Berlin  DE
+54.858029  8.292989  Rantum Nord  Europe/Berlin  DE
+54.852096  8.291659  Rantum Seeheim  Europe/Berlin  DE
+54.840221  8.292584  Rantum SΓΌd  Europe/Berlin  DE
+54.830198  8.291254  Samoa FKK-Strand  Europe/Berlin  DE
+54.929295  8.318779  Schauinsland  Europe/Berlin  DE
+54.898462  8.351868  Sylt-Ost Sportanlage  Europe/Berlin  DE
+54.899226  8.32775  Tinnum Gemeindehaus  Europe/Berlin  DE
+54.901222  8.320334  Tinnum KΓ¶nigskamp  Europe/Berlin  DE
+54.898948  8.341773  Tinnum Siedlung  Europe/Berlin  DE
+54.815186  8.29084  Wassertal Sansibar  Europe/Berlin  DE
+54.936532  8.327022  HauptstraΓ​e/Friesenhof  Europe/Berlin  DE
+54.934653  8.336056  Wenningstedt (Sylt) Siedlung  Europe/Berlin  DE
+54.893671  8.29974  Westerland (Sylt) Campingplatz  Europe/Berlin  DE
+54.88701  8.300513  Westerland (Sylt) FKK-Strand  Europe/Berlin  DE
+54.920378  8.309745  Westerland (Sylt) Marinesiedlung  Europe/Berlin  DE
+54.916971  8.307884  Westerland (Sylt) NorderstraΓ​e  Europe/Berlin  DE
+54.907272  8.306644  Westerland (Sylt) Stadtmitte  Europe/Berlin  DE
+54.906445  8.310500  Westerland ZOB  Europe/Berlin  DE
+55.010432  8.415764  List MΓ¶vengrund  Europe/Berlin  DE
+49.052427  8.249805  WΓ¶rth (Rhein) Rathaus  Europe/Berlin  DE
+49.055995  8.249895  WΓ¶rth (Rhein) Badallee  Europe/Berlin  DE
+49.058566  8.244133  WΓ¶rth (Rhein) Badepark  Europe/Berlin  DE
+54.888116  8.368993  Keitum Bahnhof  Europe/Berlin  DE
+47.561943  7.636291  "GrenzaCH,Grenzacher Horn  "  Europe/Berlin  DE
+47.558365  7.643356  "GrenzaCH,im Rippel  "  Europe/Berlin  DE
+47.555426  7.648813  "GrenzaCH,Hornrain  "  Europe/Berlin  DE
+47.554176  7.651734  "GrenzaCH,BΓ¤renfelsstraΓ​e  "  Europe/Berlin  DE
+47.55352  7.656265  "GrenzaCH,Seidenweg  "  Europe/Berlin  DE
+47.552756  7.661425  "GrenzaCH,Sparkasse  "  Europe/Berlin  DE
+52.319934  13.633777  Wildau  Europe/Berlin  DE
+52.659447  13.533637  Zepernick (Bernau)  Europe/Berlin  DE
+52.349229  13.626882  Zeuthen  Europe/Berlin  DE
+52.552476  13.116807  Seegefeld  Europe/Berlin  DE
+51.806739  14.376897  Cottbus-Willmersdorf Nord  Europe/Berlin  DE
+52.741698  13.263224  Lehnitz  Europe/Berlin  DE
+50.694477  10.719906  Oberhof Rondell/Rennsteiggarten  Europe/Berlin  DE
+50.706253  10.723654  Oberhof Platz des Friedens/Busbf  Europe/Berlin  DE
+52.089405  10.22914  Baddeckenstedt Bf  Europe/Berlin  DE
+48.359053  8.968151  Hechingen Landesbahn  Europe/Berlin  DE
+50.941303  6.97464  KΓ¶ln Messe/Deutz Gleis 9-10  Europe/Berlin  DE
+48.092999  12.648478  "KirchweidaCH, "  Europe/Berlin  DE
+49.038934  8.291793  Maximiliansau West  Europe/Berlin  DE
+49.035913  8.307983  Maxau  Europe/Berlin  DE
+51.230225  11.136475  Griefstedt  Europe/Berlin  DE
+48.566811  13.394412  Neustift (b Passau)  Europe/Berlin  DE
+48.35276  13.311055  Bad FΓΌssing FΓΌssinger Hof  Europe/Berlin  DE
+54.848752  8.292674  Rantum Mitte  Europe/Berlin  DE
+54.880232  8.296881  Diekjen-Deel  Europe/Berlin  DE
+54.801649  8.288252  Puan Klent (Sylt)  Europe/Berlin  DE
+54.757008  8.293798  HΓ¶rnum Hafen  Europe/Berlin  DE
+54.502488  11.229163  Puttgarden Schiffsanleger  Europe/Berlin  DE
+54.873508  8.393956  Archsum  Europe/Berlin  DE
+54.931084  8.350879  Braderup (Wenningstedt)  Europe/Berlin  DE
+54.89439  8.369029  Keitum Schnittis Eck  Europe/Berlin  DE
+54.955049  8.342358  Kampen Mitte  Europe/Berlin  DE
+55.01765  8.437562  List FΓ¤hre  Europe/Berlin  DE
+54.920504  8.359743  "MunkmarsCH,Hafen  "  Europe/Berlin  DE
+54.868924  8.443603  Morsum Kleinmorsum  Europe/Berlin  DE
+54.895972  8.362871  Keitum Parkplatz West  Europe/Berlin  DE
+54.900161  8.33469  Tinnum Mitte  Europe/Berlin  DE
+54.93566  8.322941  Wenningstedt Mitte  Europe/Berlin  DE
+51.618263  11.048911  "StraΓ​berg-GlasebaCH, "  Europe/Berlin  DE
+54.97452  8.356947  Kinderheim  Europe/Berlin  DE
+54.988543  8.367707  Vogelkoje (Sylt)  Europe/Berlin  DE
+55.001937  8.379627  Westerheide-Blidsel  Europe/Berlin  DE
+54.925124  8.315552  Westerland (Sylt) Nordseeklinik  Europe/Berlin  DE
+54.902624  8.327948  Tinnum (Sylt) Einkaufszentrum  Europe/Berlin  DE
+54.902669  8.311974  Kirche  Europe/Berlin  DE
+54.915623  8.317089  Weg  Europe/Berlin  DE
+54.904494  8.320514  Tinnum (Sylt) CulemeyerstraΓ​e  Europe/Berlin  DE
+54.911685  8.309556  Westerland (Sylt) DRK  Europe/Berlin  DE
+49.131442  8.594056  Bruchsal SchloΓ​garten  Europe/Berlin  DE
+49.136431  8.598200  Bruchsal Stegwiesen  Europe/Berlin  DE
+49.155191  8.633024  Ubstadt Salzbrunnenstr  Europe/Berlin  DE
+48.678781  8.997788  BΓ¶blingen Danziger Str  Europe/Berlin  DE
+48.677235  9.010508  BΓ¶blingen SΓΌdbf  Europe/Berlin  DE
+48.675635  9.025772  BΓ¶blingen Heusteigstr  Europe/Berlin  DE
+48.670781  9.035012  BΓ¶blingen Zimmerschlag  Europe/Berlin  DE
+48.647858  9.009636  Holzgerlingen Nord  Europe/Berlin  DE
+48.63752  9.006948  Holzgerlingen Bf  Europe/Berlin  DE
+48.626697  9.024765  "Holzgerlingen BuCH, "  Europe/Berlin  DE
+48.620216  9.042725  "Weil im SchΓ¶nbuCH,Troppel  "  Europe/Berlin  DE
+48.620953  9.049899  "Weil im SchΓ¶nbuCH,RΓ¶te  "  Europe/Berlin  DE
+48.620441  9.062798  "Weil im SchΓ¶nbuCH,Untere HalDE, "  Europe/Berlin  DE
+48.606705  9.093433  Dettenhausen  Europe/Berlin  DE
+54.784497  8.836189  NiebΓΌll DB AutoZug SyltShuttle  Europe/Berlin  DE
+52.749142  8.293573  Vechta-Stoppelmarkt  Europe/Berlin  DE
+49.278685  9.684519  KΓΌnzelsau Bf  Europe/Berlin  DE
+53.944428  14.177283  Ahlbeck Ostseetherme  Europe/Berlin  DE
+53.952761  14.148257  Heringsdorf Neuhof  Europe/Berlin  DE
+54.028073  14.033518  "StubbenfelDE, "  Europe/Berlin  DE
+51.090164  7.855277  Attendorn-Hohen Hagen  Europe/Berlin  DE
+49.520099  8.427764  Ludwigshafen (Rhein) BASF Nord  Europe/Berlin  DE
+50.923378  10.577867  HΓ¶rselgau  Europe/Berlin  DE
+49.550609  7.887935  MΓΌnchweiler (Alsenz)  Europe/Berlin  DE
+50.173301  8.52918  Kronberg SΓΌd  Europe/Berlin  DE
+50.185688  8.584698  Oberursel-Stierstadt  Europe/Berlin  DE
+51.709269  9.383371  Wehrden  Europe/Berlin  DE
+47.816886  9.616965  Weingarten Berg  Europe/Berlin  DE
+48.983327  8.782029  Maulbronn West  Europe/Berlin  DE
+50.50654  11.13669  Neuhaus am Rennweg  Europe/Berlin  DE
+52.613099  13.245928  Berlin-Schulzendorf  Europe/Berlin  DE
+52.521643  13.411006  Berlin Alexanderplatz (S)  Europe/Berlin  DE
+52.503484  13.38136  Berlin Anhalter Bf  Europe/Berlin  DE
+52.447679  13.360954  Berlin AttilastraΓ​e  Europe/Berlin  DE
+52.46724  13.490093  Berlin Baumschulenweg  Europe/Berlin  DE
+52.519953  13.348262  Berlin Bellevue  Europe/Berlin  DE
+52.49383  13.497788  Berlin Betriebsbf Rummelsburg  Europe/Berlin  DE
+52.446906  13.523677  "Berlin Betriebsbf SchΓ¶neweiDE, "  Europe/Berlin  DE
+52.554507  13.398314  Berlin Bornholmer StraΓ​e  Europe/Berlin  DE
+52.447787  13.306767  Berlin Botanischer Garten  Europe/Berlin  DE
+52.410482  13.382816  Berlin Buckower Chaussee  Europe/Berlin  DE
+52.540016  13.439556  Berlin Greifswalder Str  Europe/Berlin  DE
+52.463545  13.332575  Berlin FeuerbachstraΓ​e  Europe/Berlin  DE
+52.51517  13.474407  Berlin Frankfurter Allee  Europe/Berlin  DE
+52.556008  13.524837  Berlin GehrenseestraΓ​e  Europe/Berlin  DE
+52.548961  13.388515  Berlin Gesundbrunnen (S)  Europe/Berlin  DE
+52.399407  13.542483  Berlin GrΓΌnbergallee  Europe/Berlin  DE
+52.52264  13.402233  Berlin Hackescher Markt  Europe/Berlin  DE
+52.544799  13.379274  Berlin Humboldthain  Europe/Berlin  DE
+52.514271  13.419348  Berlin JannowitzbrΓΌcke  Europe/Berlin  DE
+52.529589  13.454568  Berlin Landsberger Allee  Europe/Berlin  DE
+52.525589  13.369548  Berlin Hbf (S-Bahn)  Europe/Berlin  DE
+52.557761  13.553701  Berlin Mehrower Allee  Europe/Berlin  DE
+52.436937  13.232714  Berlin Mexikoplatz  Europe/Berlin  DE
+52.532061  13.388461  Berlin Nordbahnhof  Europe/Berlin  DE
+52.625  1  3.229083  B  erlin-Heiligensee  Europe/Berlin  DE
+52.503493  13.484448  Berlin NΓ¶ldnerplatz  Europe/Berlin  DE
+52.525211  13.393055  Berlin Oranienburger StraΓ​e  Europe/Berlin  DE
+52.502999  13.46931  Berlin Ostkreuz  Europe/Berlin  DE
+52.478539  13.473122  Berlin PlΓ¤nterwald  Europe/Berlin  DE
+52.535  1  3.535192  B  erlin PoelchaustraΓ​e  Europe/Berlin  DE
+52.509507  13.37665  Berlin Potsdamer Platz (S)  Europe/Berlin  DE
+52.544925  13.425767  Berlin Prenzlauer Allee  Europe/Berlin  DE
+52.459284  13.35637  Berlin Priesterweg  Europe/Berlin  DE
+52.550866  13.547687  Berlin Raoul-Wallenberg-StraΓ​e  Europe/Berlin  DE
+52.455833  13.322948  Berlin Rathaus Steglitz  Europe/Berlin  DE
+52.505093  13.319271  Berlin Savignyplatz  Europe/Berlin  DE
+52.398841  13.389306  Berlin Schichauweg  Europe/Berlin  DE
+52.549203  13.415456  Berlin SchΓ¶nhauser Allee  Europe/Berlin  DE
+52.526344  13.536738  Berlin Springpfuhl  Europe/Berlin  DE
+52.523908  13.464393  Berlin Storkower Str  Europe/Berlin  DE
+52.436542  13.274379  Berlin Sundgauer Str  Europe/Berlin  DE
+52.49356  13.461445  Berlin Treptower Park  Europe/Berlin  DE
+52.51651  13.381818  Berlin Brandenburger Tor  Europe/Berlin  DE
+52.506271  13.450613  Berlin Warschauer StraΓ​e  Europe/Berlin  DE
+52.500671  13.284061  Berlin Westkreuz  Europe/Berlin  DE
+52.565483  13.391787  Berlin WollankstraΓ​e  Europe/Berlin  DE
+52.512474  13.575563  Berlin Wuhletal  Europe/Berlin  DE
+52.491169  13.372128  Berlin YorckstraΓ​e (S2)  Europe/Berlin  DE
+52.492293  13.367795  Berlin YorckstraΓ​e (S1)  Europe/Berlin  DE
+52.435031  13.541125  Berlin-Adlershof  Europe/Berlin  DE
+52.531755  13.209729  Berlin-Stresow  Europe/Berlin  DE
+52.4073  13.558753  Berlin-Altglienicke  Europe/Berlin  DE
+52.513094  13.555876  Berlin-Biesdorf  Europe/Berlin  DE
+52.591165  13.443332  Berlin-Blankenburg  Europe/Berlin  DE
+52.636165  13.492287  "Berlin-BuCH, "  Europe/Berlin  DE
+52.470584  13.341385  Berlin-Friedenau  Europe/Berlin  DE
+52.514172  13.520252  "Berlin-FriedrichsfelDE,Ost  "  Europe/Berlin  DE
+52.457244  13.624599  Berlin-Friedrichshagen  Europe/Berlin  DE
+52.632758  13.289931  Berlin-Frohnau  Europe/Berlin  DE
+52.488688  13.261722  Berlin-Grunewald  Europe/Berlin  DE
+52.413026  13.573495  Berlin-GrΓΌnau  Europe/Berlin  DE
+52.617782  13.307693  Berlin-Hermsdorf  Europe/Berlin  DE
+52.457972  13.602135  Berlin-Hirschgarten  Europe/Berlin  DE
+52.512096  13.588939  Berlin-Kaulsdorf  Europe/Berlin  DE
+52.458691  13.579914  Berlin-KΓ¶penick  Europe/Berlin  DE
+52.387299  13.396174  "Berlin-LichtenraDE, "  Europe/Berlin  DE
+52.443346  13.293733  "Berlin-LichterfelDE,West  "  Europe/Berlin  DE
+52.512159  13.61107  Berlin-Mahlsdorf  Europe/Berlin  DE
+52.47515  13.364991  Berlin SΓΌdkreuz (S)  Europe/Berlin  DE
+52.423633  13.37513  "Berlin-MarienfelDE, "  Europe/Berlin  DE
+52.543603  13.541341  Berlin-Marzahn  Europe/Berlin  DE
+52.469415  13.443062  Berlin-NeukΓ¶lln  Europe/Berlin  DE
+52.431562  13.193252  Berlin-Nikolassee  Europe/Berlin  DE
+52.452462  13.538213  Berlin-Oberspree  Europe/Berlin  DE
+52.566481  13.410773  Berlin-Pankow  Europe/Berlin  DE
+52.57796  13.429362  Berlin-Pankow-Heinersdorf  Europe/Berlin  DE
+52.451446  13.690751  Berlin-Rahnsdorf  Europe/Berlin  DE
+52.501309  13.478362  Berlin-Rummelsburg  Europe/Berlin  DE
+52.439976  13.215023  Berlin-Schlachtensee  Europe/Berlin  DE
+52.571488  13.381297  Berlin-SchΓ¶nholz  Europe/Berlin  DE
+52.447158  13.56145  Berlin-Spindlersfeld  Europe/Berlin  DE
+52.588378  13.289697  Berlin-Tegel (S)  Europe/Berlin  DE
+52.47088  13.384506  Berlin-Tempelhof  Europe/Berlin  DE
+52.514065  13.336396  Berlin-Tiergarten  Europe/Berlin  DE
+52.606788  13.320629  Berlin-Waidmannslust  Europe/Berlin  DE
+52.573007  13.503874  Berlin-Wartenberg  Europe/Berlin  DE
+52.438708  13.722141  Berlin-Wilhelmshagen  Europe/Berlin  DE
+52.581448  13.362977  Berlin-Wilhelmsruh  Europe/Berlin  DE
+52.597044  13.334445  Damm)  Europe/Berlin  DE
+52.469029  13.553198  "Berlin-WuhlheiDE, "  Europe/Berlin  DE
+52.431067  13.258657  Berlin-Zehlendorf  Europe/Berlin  DE
+52.668257  13.563688  Bernau-Friedenstal  Europe/Berlin  DE
+52.530371  13.299441  "Berlin JungfernheiDE,(S)  "  Europe/Berlin  DE
+52.577717  13.316835  Berlin Eichborndamm  Europe/Berlin  DE
+52.57805  13.329177  Berlin Karl-Bonhoeffer-Klinik  Europe/Berlin  DE
+52.578095  13.349619  Berlin Alt-Reinickendorf  Europe/Berlin  DE
+52.469649  13.467809  "Berlin KΓ¶llnische HeiDE, "  Europe/Berlin  DE
+52.467509  13.431313  Berlin HermannstraΓ​e  Europe/Berlin  DE
+52.478081  13.342194  Berlin Innsbrucker Platz  Europe/Berlin  DE
+52.477613  13.329591  Berlin Bundesplatz  Europe/Berlin  DE
+52.488553  13.300259  Berlin Hohenzollerndamm  Europe/Berlin  DE
+52.496257  13.290326  Berlin-Halensee  Europe/Berlin  DE
+52.50752  13.28344  Berlin Messe Nord/ICC (Witzleben)  Europe/Berlin  DE
+52.518074  13.284636  Berlin Westend  Europe/Berlin  DE
+52.479969  13.312017  Berlin Heidelberger Platz  Europe/Berlin  DE
+52.429476  13.327586  "Berlin-LichterfelDE,Ost (S)  "  Europe/Berlin  DE
+52.438744  13.341951  Berlin-Lankwitz  Europe/Berlin  DE
+52.448452  13.353898  "Berlin SΓΌdenDE, "  Europe/Berlin  DE
+52.53625  13.344252  Berlin Westhafen  Europe/Berlin  DE
+52.534353  13.329043  Berlin BeusselstraΓ​e  Europe/Berlin  DE
+50.880221  6.085867  Herzogenrath (Gr)  Europe/Berlin  DE
+51.736372  14.661882  Forst (Gr)  Europe/Berlin  DE
+53.415809  14.3734  Grambow (Gr)  Europe/Berlin  DE
+52.321174  14.576404  Frankfurt (Oder) (Gr)  Europe/Berlin  DE
+50.860058  14.22213  SchΓ¶na (Gr)  Europe/Berlin  DE
+53.325755  14.414598  Tantow (Gr)  Europe/Berlin  DE
+50.89233  14.828974  Zittau (Gr)  Europe/Berlin  DE
+52.543253  13.368173  Berlin-Wedding  Europe/Berlin  DE
+52.507575  7  13.27956  85  Berlin Busbf (ZOB) am Funkturm  Europe/Berlin  DE
+50.229438  9.347334  Bad Orb Busbf  Europe/Berlin  DE
+52.427642  10.790192  Wolfsburg Busbf  Europe/Berlin  DE
+50.263372  10.957958  Coburg Bahnhof/ZOB  Europe/Berlin  DE
+50.108066  10.992737  Bad Staffelstein Thermalbad  Europe/Berlin  DE
+52.473101  13.455853  Berlin Sonnenallee  Europe/Berlin  DE
+52.498738  13.269867  Berlin Messe SΓΌd (Eichkamp)  Europe/Berlin  DE
+52.508123  13.259376  Berlin HeerstraΓ​e  Europe/Berlin  DE
+52.511026  13.241578  Berlin Olympiastadion  Europe/Berlin  DE
+52.510388  13.227132  Berlin-Pichelsberg  Europe/Berlin  DE
+50.146018  11.06039  Lichtenfels Bahnhof  Europe/Berlin  DE
+49.211572  9.657282  "Waldenburg-HohebuCH, "  Europe/Berlin  DE
+54.316393  10.133377  Kiel ZOB  Europe/Berlin  DE
+53.628925  11.410987  Schwerin Marienplatz  Europe/Berlin  DE
+52.410761  13.308628  "Berlin-LichterfelDE,SΓΌd  "  Europe/Berlin  DE
+52.418842  13.314291  Berlin Osdorfer StraΓ​e  Europe/Berlin  DE
+52.479375  13.352064  Berlin-SchΓ¶neberg  Europe/Berlin  DE
+52.486189  13.360927  Berlin Julius-Leber-BrΓΌcke  Europe/Berlin  DE
+48.8659  8.509827  "ttersbaCH,Rathaus  "  Europe/Berlin  DE
+48.620333  9.34007  NΓΌrtingen-Vorstadt  Europe/Berlin  DE
+48.608575  9.345716  NΓΌrtingen-RoΓ​dorf  Europe/Berlin  DE
+48.592053  9.364476  Frickenhausen KelterstraΓ​e  Europe/Berlin  DE
+51.522608  12.346917  "DelitzsCH, "  Europe/Berlin  DE
+54.180089  7.896349  Helgoland  Europe/Berlin  DE
+50.924008  11.582726  Jena  Europe/Berlin  DE
+50.506755  12.12723  Plauen  Europe/Berlin  DE
+50.690441  11.588443  PΓ¶Γ​neck  Europe/Berlin  DE
+51.346546  12.383333  Leipzig  Europe/Berlin  DE
+51.459666  13.516827  Elsterwerda  Europe/Berlin  DE
+54.565178  13.103845  Hiddensee  Europe/Berlin  DE
+52.323161  9.798206  Hannover Messe  Europe/Berlin  DE
+51.277706  6.767286  DΓΌsseldorf Flughafen  Europe/Berlin  DE
+49.921701  8.493925  GroΓ​ Gerau  Europe/Berlin  DE
+49.508926  11.278639  Lauf (Pegnitz)  Europe/Berlin  DE
+49.478929  11.200451  Schwaig (b NΓΌrnberg)  Europe/Berlin  DE
+50.813917  6.258523  Eschweiller  Europe/Berlin  DE
+51.315946  9.470378  Kassel  Europe/Berlin  DE
+52.554085  13.292403  Berlin Flughafen Tegel  Europe/Berlin  DE
+48.934551  12.04265  "Bad AbbaCH,Ort  "  Europe/Berlin  DE
+49.802415  10.160345  "DettelbaCH,Ort  "  Europe/Berlin  DE
+50.73216  7.098026  Bonn Hbf (tief)  Europe/Berlin  DE
+51.065866  13.740785  Dresden-Neustadt Gleis 10  Europe/Berlin  DE
+48.783002  9.179811  Stuttgart Hbf (tief)  Europe/Berlin  DE
+50.10741  8.664136  Frankfurt Hbf (tief)  Europe/Berlin  DE
+53.456431  9.991564  Hamburg-Harburg (S)  Europe/Berlin  DE
+52.525589  13.369548  Berlin Hbf (tief)  Europe/Berlin  DE
+51.318194  9.489786  Kassel Hbf (tief)  Europe/Berlin  DE
+48.141532  11.556711  MΓΌnchen Hbf Gleis 27-36  Europe/Berlin  DE
+48.140093  11.555372  MΓΌnchen Hbf Gleis 5-10  Europe/Berlin  DE
+48.141172  11.560496  MΓΌnchen Hbf (tief)  Europe/Berlin  DE
+50.794527  6.219007  Stolberg Hbf Gleis 27 (Rheinl)  Europe/Berlin  DE
+49.43161  11.128654  Sonderbahnsteig  Europe/Berlin  DE
+53.552804  10.007924  Hamburg Hbf (S-Bahn)  Europe/Berlin  DE
+53.55195  9.934482  Hamburg-Altona (S)  Europe/Berlin  DE
+53.67744  7.57467  Bensersiel NE  Europe/Berlin  DE
+52.157391  9.942375  Hildesheim Gbf  Europe/Berlin  DE
+50.797556  6.224877  Stolberg (Rheinl) Gbf  Europe/Berlin  DE
+54.096229  10.795433  Neustadt (Holst) Gbf  Europe/Berlin  DE
+45.398347  3.321154  "Ste-Florine LycΓ©e ClauDE,Favard  "  Europe/Paris  FR
+47.810967  57.503867  Bantzenheim  Europe/Paris  FR
+42.849699  0.60483  Pratviel la Ferme  Europe/Paris  FR
+42.969228  0.634935  Siradan  Europe/Paris  FR
+43.402482  1.9578462  "839 La PomarΓ¨DE, "  Europe/Paris  FR
+43.3615  1.9623  Pey rens  Europe/Paris  FR
+43.451123  2.04651  Pont-Crouzet  Europe/Paris  FR
+49.569953  3.62431  Laon Gare RoutiΓ¨re  Europe/Paris  FR
+49.717917  4.15499  La GarDE,DE,Dieu  "  Europe/Paris  FR
+48.650339  2.406664  Ris-Orangis Jean JaurΓ¨s  Europe/Paris  FR
+48.650645  2.415158  Ris-Orangis DA  Europe/Paris  FR
+47.464725  6.099073  Rioz  Europe/Paris  FR
+44.752535  4.725152  Rompon Les-Fonts-du-Pouzin  Europe/Paris  FR
+48.921921  7.333885  Rosteig  Europe/Paris  FR
+48.358828  5.147448  Rouvroy-sur-Marne  Europe/Paris  FR
+45.060209  3.057213  Roueyre  Europe/Paris  FR
+45.392603  3.319087  Arrest Usine MΓ©lius  Europe/Paris  FR
+48.945518  2.299422  Carrefour 18 Juin 40  Europe/Paris  FR
+49.193944  2.757845  RoissypΓ΄le  Europe/Paris  FR
+48.893237  2.304456  Porte Asnieres  Europe/Paris  FR
+48.418822  5.150872  Rupt  Europe/Paris  FR
+49.709538  4.129995  Rozoy-sur-Serre Salle des FΓùtes  Europe/Paris  FR
+48.948278  2.53191  Sevran Beaudottes Luther King  Europe/Paris  FR
+45.127044  3.555844  Saint-Eble  Europe/Paris  FR
+48.717983  7.033753  Sarrebourg Mairie  Europe/Paris  FR
+47.605325  5.213392  Selongey Γ‰cole MΓ©nagΓ¨re  Europe/Paris  FR
+47.600534  5.206318  Selongey Patenee  Europe/Paris  FR
+47.518687  5.178343  Til Chatel Poste  Europe/Paris  FR
+47.517321  5.169642  Til-ChΓΆtel PerdrixiΓ¨re  Europe/Paris  FR
+44.606958  4.415463  St-Didier-sous-Aubenas  Europe/Paris  FR
+46.974822  4.317078  Surmoulin  Europe/Paris  FR
+48.835157  2.652599  Lognes CollΓ¨ge du Segrais  Europe/Paris  FR
+47.001996  2.270504  Le Subdray LycΓ©e Agricole  Europe/Paris  FR
+49.610189  3.805691  Liesse Notre Dame Centre  Europe/Paris  FR
+45.192243  3.727206  Serres (Haute-Loire)  Europe/Paris  FR
+49.206906  2.577189  "Senlis Avenue DE,Creil  "  Europe/Paris  FR
+49.250108  2.495953  Creil Valois  Europe/Paris  FR
+43.599788  11.371854  "8 Saint-Martin du TouCH, "  Europe/Paris  FR
+48.989943  1.882853  Les Sablons  Europe/Paris  FR
+45.607363  2.686799  Bourg  Europe/Paris  FR
+44.481825  4.257695  RosiΓ¨res Centre  Europe/Paris  FR
+49.61027  3.808468  Liesse Gendarmerie  Europe/Paris  FR
+48.689128  2.520071  "Boussy Saint-Antoine le StaDE, "  Europe/Paris  FR
+48.858269  2.34711  ChΓΆtelet  Europe/Paris  FR
+49.014897  2.572982  AΓ©roport CDG T  Europe/Paris  FR
+44.397201  2.098999  Malevilleβ€”Barbet  Europe/Paris  FR
+49.00419  2.576641  AΓ©roport CDG T  Europe/Paris  FR
+44.433859  2.176612  Le Bruel Bel-Air  Europe/Paris  FR
+43.420927  0.277362  Laguian Mazous  Europe/Paris  FR
+49.013306  2.542104  AΓ©roport CDG T  Europe/Paris  FR
+43.35516  0.14844  acassagne  Europe/Paris  FR
+43.33915  0.13289  scondeaux  Europe/Paris  FR
+43.075823  1.745669  Rieucros  Europe/Paris  FR
+42.918385  1.851984  Lavelanet LycΓ©e  Europe/Paris  FR
+43.049826  1.883554  La Bastide-de-Bousignac  Europe/Paris  FR
+44.56618  1.980647  Faycelles  Europe/Paris  FR
+44.468994  61.688922  La Tour-de-Faure  Europe/Paris  FR
+44.467056  1.523051  Savanac  Europe/Paris  FR
+45.986718  3.501864  Chateldon  Europe/Paris  FR
+44.577992  2.118281  Floirac Cours  Europe/Paris  FR
+44.57739  2.162328  La Roque-Bouillac  Europe/Paris  FR
+44.576374  2.137823  Cuzac Enlet  Europe/Paris  FR
+44.562405  2.241693  Aubin Cerons Croisement  Europe/Paris  FR
+48.744393  2.408812  Fer A Cheval Noctilien  Europe/Paris  FR
+48.740042  2.395912  Les Tilleuls Noctilien  Europe/Paris  FR
+48.842582  2.647709  Torcy CollΓ¨ge Jean Monnet  Europe/Paris  FR
+43.595603  1.401449  Le TOEC  Europe/Paris  FR
+48.839274  2.65428  Torcy RER  Europe/Paris  FR
+48.831813  2.388155  "Terroir DE,France Cinecite  "  Europe/Paris  FR
+48.613933  2.458729  Corbeil Essonnes Tarterets  Europe/Paris  FR
+47.981056  5.264505  Thivet  Europe/Paris  FR
+43.166641  0.257271  "LanespeDE, "  Europe/Paris  FR
+43.204917  0.198149  Lhez  Europe/Paris  FR
+43.196206  0.189339  Mascaras D5-N117  Europe/Paris  FR
+43.067184  0.57343  Gourdan-Polignan LycΓ©e  Europe/Paris  FR
+44.578019  2.159523  Bouillac  Europe/Paris  FR
+44.382306  2.661517  Canabols Embranchement  Europe/Paris  FR
+44.349261  2.987636  Cornuejouls Abri  Europe/Paris  FR
+44.357675  2.925665  Gaillac dβ€™Aveyron RN D  Europe/Paris  FR
+44.372445  2.624598  "La Roquette HΓ΄tel la RocaDE, "  Europe/Paris  FR
+44.334735  3.027351  Lapanouse Place du Monument  Europe/Paris  FR
+44.369137  2.890427  Lugan RN D  Europe/Paris  FR
+44.354664  2.881249  MΓ©zerac Abri  Europe/Paris  FR
+44.401875  2.739579  Montrozier Embranchement  Europe/Paris  FR
+44.367689  2.851434  94  Embranchement  Europe/Paris  FR
+44.349918  2.936317  Saint-Amans-de-VarΓ¨s RN 88  Europe/Paris  FR
+42.920822  0.650135  Le Rouziet Parc Aventure  Europe/Paris  FR
+43.011009  62235832  Luscan Pont  Europe/Paris  FR
+42.811827  0.601054  Moustajon  Europe/Paris  FR
+42.501610  1.840945  Courbassil  Europe/Paris  FR
+42.492638  1.852173  Ruites  Europe/Paris  FR
+42.856162  1.604871  Tarascon Espace Mitterand  Europe/Paris  FR
+43.636731  0.88274  Gimont Halles  Europe/Paris  FR
+43.599794  1.2326252  LΓ©guevin Centre  Europe/Paris  FR
+43.624776  1.125413  Pujaudran Centre  Europe/Paris  FR
+43.213699  0.098261  SΓ©mΓ©ac Alsthom Porte Sud  Europe/Paris  FR
+42.862967  0.338461  Guchen Γ‰glise  Europe/Paris  FR
+42.789112  0.231166  Aragnouet Mairie  Europe/Paris  FR
+43.647141  1.986247  Saint-Paul-Cap-de-Joux Centre  Europe/Paris  FR
+43.469251  2.527997  Albine Croisement N112/D88  Europe/Paris  FR
+44.305646  2.237882  Rieupeyroux  Europe/Paris  FR
+44.320199  1.894764  Memer  Europe/Paris  FR
+44.26176  1.863382  Parisot Place du 19 Mars  Europe/Paris  FR
+44.232788  1.771108  Caylus Centre  Europe/Paris  FR
+44.1771  1.617078  Septfonds Salle des FΓùtes  Europe/Paris  FR
+44.291233  2.5548362  "7La PrimauBE, "  Europe/Paris  FR
+44.18578  2.36601  Naucelle RN  Europe/Paris  FR
+44.019213  2.168782  "Pont DE,Blaye  "  Europe/Paris  FR
+43.990718  2.184693  Le Garric Mairie  Europe/Paris  FR
+47.294829  1.768037  Villefranche-sur-Cher GR  Europe/Paris  FR
+48.963847  2.543713  Villepinte Espace V  Europe/Paris  FR
+48.463004  5.131986  Vecqueville  Europe/Paris  FR
+48.703618  2.430395  Vigneux Patt dβ€™Oie  Europe/Paris  FR
+49.705166  4.0315425  "Hameau DE,Vincy  "  Europe/Paris  FR
+42.505515  1.527189  Andorra la Vella  Europe/Paris  AD  17334
+47.398447  6.076878  Voray-sur-lβ€™Ognon  Europe/Paris  FR
+48.684453  2.375372  Viry-Chatillonβ€”Blazy  Europe/Paris  FR
+48.982491  1.980844  Verneuil Faisanderie  Europe/Paris  FR
+49.687919  0.769332  Yvecrique Mairie  Europe/Paris  FR
+48.952574  2.295404  Le Cygne dβ€™Enghien  Europe/Paris  FR
+46.49638  11.358787  Bolzano/Bozen  Europe/Rome  IT  17437
+42.437606  12.409069  Orte  Europe/Rome  IT  17438
+47.241406  9.60376  "FeldkirCH,"  Europe/Vienna  AT
+52.560602  5.924574  Kampen  Europe/Amsterdam  NL  17440
+48.158908  17.106463  Bratislava hl.st.  Europe/Bratislava  SK  17441
+45.804453  15.978478  Zagreb  Europe/Zagreb  HR  17442
+47.067842  15.415664  Graz Hbf  Europe/Vienna  AT
+47.173726  14.665748  Judenburg  Europe/Vienna  AT
+46.615802  14.312391  Klagenfurt Hbf  Europe/Vienna  AT
+48.291526  14.291122  Linz/Donau Hbf  Europe/Vienna  AT
+48.039405  14.424945  Steyr  Europe/Vienna  AT
+48.165874  14.026561  Wels Hbf  Europe/Vienna  AT
+49.190537  16.612775  Brno hl.n.  Europe/Prague  CZ
+50.773411  14.201248  DΔ›Δ​Γ​n hl.n.  Europe/Prague  CZ
+50.235668  12.866853  Karlovy Vary  Europe/Prague  CZ
+50.761429  15.045946  Liberec  Europe/Prague  CZ
+49.593128  17.277932  Olomouc hl.n.  Europe/Prague  CZ
+50.083058  14.436037  Praha hl.n.  Europe/Prague  CZ
+50.646762  13.828807  "Teplice v Δ​echΓ΅CH, "  Europe/Prague  CZ
+50.659563  14.044728  Γ​stΓ​ nad Labem hl.n.  Europe/Prague  CZ
+57.043127  9.916486  Aalborg St.  Europe/Copenhagen  DK
+56.150075  10.204995  Aarhus  Europe/Copenhagen  DK
+55.490842  9.481525  Kolding St.  Europe/Copenhagen  DK
+55.672721  12.564618  KΓΈbenhavn  Europe/Copenhagen  DK
+55.401777  10.386001  Odense St.  Europe/Copenhagen  DK
+55.639012  12.088855  "RoskilDE,St.  "  Europe/Copenhagen  DK
+54.355523  18.643807  GdaΕ„sk GΕ‚Γ³wny  Europe/Warsaw  PL
+51.757416  19.430884  Ε​Γ³dΕΊ Kaliska  Europe/Warsaw  PL
+57.709308  11.973424  GΓ¶teborg Central  Europe/Stockholm  SE  17491
+56.66921  12.8643  Halmstad Central  Europe/Stockholm  SE  17494
+56.04368  12.69506  9  Helsingborg Central  Europe/Stockholm  SE  17495
+55.60923  13.00126  MalmΓ¶ Central  Europe/Stockholm  SE  17496
+46.781742  4.843396  9 Chalon-sur-SaΓ΄ne Gare RoutiΓ¨re  Europe/Paris  FR
+46.6657  7.869471  Wilderswil  Europe/ZuriCH  17498
+47.24051  8.721631  StΓ¤fa  Europe/ZuriCH  17499
+46.95832  8.366745  Stans  Europe/ZuriCH  17500
+47.42985  8.561829  Opfikon  Europe/ZuriCH  17501
+46.78635  8.163562  Lungern  Europe/ZuriCH  17502
+47.4482  8.583367  Kloten  Europe/ZuriCH  17503
+47.26158  8.596968  Horgen  Europe/ZuriCH  17505
+46.80839  9.838405  Davos Dorf DKB  Europe/ZuriCH  17506
+46.31941  7.988084  Brig  Europe/ZuriCH  17507
+50.83589  4.335317  Bruxelles-Midi Eurostar  Europe/Brussels  BE
+48.1219  14.87744  Amstetten NΓ–  Europe/Vienna  AT
+47.71195  13.62709  Bad Ischl  Europe/Vienna  AT
+47.11977  13.14556  Bad Gastein  Europe/Vienna  AT
+47.503  9.739623  Bregenz  Europe/Vienna  AT
+47.41769  9.738805  Dornbirn  Europe/Vienna  AT
+47.92503  13.78253  Gmunden  Europe/Vienna  AT
+47.45534  12.14918  Hopfgarten im Brixental  Europe/Vienna  AT
+47.45377  12.39137  KitzbΓΌhel  Europe/Vienna  AT
+46.86919  9.880942  Klosters Platz  Europe/ZuriCH  17517
+47.3866  15.089607  Leoben Hbf  Europe/Vienna  AT
+47.56266  14.24179  Liezen  Europe/Vienna  AT
+48.29024  14.29151  Linz  Europe/Vienna  AT
+47.45033  9.667116  Lustenau  Europe/Vienna  AT
+47.42684  12.82942  Saalfelden  Europe/Vienna  AT
+48.20768  15.62591  St. PΓ¶lten Hbf  Europe/Vienna  AT
+48.19759  16.33706  Wien Westbahnhof  Europe/Vienna  AT
+52.11595  4.671559  Alphen aan den Rijn  Europe/Amsterdam  NL  17529
+52.07667  4.647737  Boskoop  Europe/Amsterdam  NL  17530
+52.33804  5.616289  Harderwijk  Europe/Amsterdam  NL  17531
+52.59986  4.699677  Heiloo  Europe/Amsterdam  NL  17532
+52.35942  4.606683  Heemstede-Aerdenhout  Europe/Amsterdam  NL  17533
+51.69067  5.293801  "β€™s-HertogenbosCH, "  Europe/Amsterdam  NL  17534
+52.73521  6.468727  Hoogeveen  Europe/Amsterdam  NL  17535
+52.511736  5.470484  Lelystad Centrum  Europe/Amsterdam  NL  17536
+52.50452  4.951932  Purmerend  Europe/Amsterdam  NL  17537
+51.92186  4.406224  Schiedam Centrum  Europe/Amsterdam  NL  17538
+52.53279  4.68088  Uitgeest  Europe/Amsterdam  NL  17540
+52.01876  5.549922  Veenendaal Centrum  Europe/Amsterdam  NL  17541
+52.12829  4.43685  Voorschoten  Europe/Amsterdam  NL  17542
+52.08515  4.893511  Woerden  Europe/Amsterdam  NL  17544
+52.44083  4.812042  Zaandam  Europe/Amsterdam  NL  17545
+52.04565  4.494408  Zoetermeer  Europe/Amsterdam  NL  17547
+52.53425  5.721643  Dronten  Europe/Amsterdam  NL  17548
+48.17914  14.52184  St. Valentin  Europe/Vienna  AT
+52.52615  13.36908  Berlin Hbf (Europaplatz)  Europe/Berlin  DE
+50.06719  19.94742  KrakΓ³w GΕ‚Γ³wny  Europe/Warsaw  PL
+50.0679  19.94958  KrakΓ³w GΕ‚Γ³wny (Bus)  Europe/Warsaw  PL
+50.08192  14.45148  Praha  Europe/Prague  CZ
+50.08337  14.43461  Praha hl.n. Wilsonova  Europe/Prague  CZ
+48.14226  11.54986  MΓΌnchen ZOB (HackerbrΓΌcke)  Europe/Berlin  DE
+49.47935  8.468917  Mannheim Hbf (busbf)  Europe/Berlin  DE
+51.345445  12.38008  Leipzig Hbf (tief)  Europe/Berlin  DE
+47.996679  7.84129  Freiburg (Breisgau) ZOB  Europe/Berlin  DE
+51.47617  11.986189  (Saale)  Europe/Berlin  DE
+55.56808  9.738814  Fredericia St.  Europe/Copenhagen  DK
+54.93617  9.258233  Tinglev St.  Europe/Copenhagen  DK
+54.07746  12.129558  Rostock Albrecht-Kossel-Platz  Europe/Berlin  DE
+48.783  9.179811  Stuttgart Hbf (tief) +  Europe/Berlin  DE
+47.78433  9.60607  Ravensburg Bhf (SEV)  Europe/Berlin  DE
+48.22408  15.3313  Melk  Europe/Vienna  AT
+48.09408  13.88834  LambaCH, "  Europe/Vienna  AT
+48.01279  13.72072  Attnang-Puchheim  Europe/Vienna  AT
+47.96672  13.23902  Steindorf bei StraΓ​walchen  Europe/Vienna  AT
+48.23104  13.83891  Grieskirchen-GallspaCH, "  Europe/Vienna  AT
+48.27154  13.72504  Neumarkt-Kallham  Europe/Vienna  AT
+48.46323  13.44272  SchΓ¤rding  Europe/Vienna  AT
+47.41382  15.27943  Bruck/Mur  Europe/Vienna  AT
+47.68516  13.09943  Hallein  Europe/Vienna  AT
+47.60057  13.16408  Golling-Abtenau  Europe/Vienna  AT
+47.3481  13.19484  St. Johann im Pongau  Europe/Vienna  AT
+47.31853  13.15446  Schwarzach-St. Veit  Europe/Vienna  AT
+47.29275  12.94716  Taxenbach-Rauris  Europe/Vienna  AT
+47.28461  12.82881  Bruck-FusCH, "  Europe/Vienna  AT
+47.32052  12.796567  Zell am See  Europe/Vienna  AT
+47.35884  12.81036  Maishofen-SaalbaCH, "  Europe/Vienna  AT
+47.44327  12.74168  Leogang  Europe/Vienna  AT
+47.4677  12.62652  Hochfilzen  Europe/Vienna  AT
+47.49113  12.52894  Fieberbrunn  Europe/Vienna  AT
+47.51962  12.43077  St. Johann in Tirol  Europe/Vienna  AT
+47.44892  12.3091  Kirchberg in Tirol  Europe/Vienna  AT
+47.44111  12.222902  Westendorf in Tirol  Europe/Vienna  AT
+47.30078  11.07887  Telfs-Pfaffenhofen  Europe/Vienna  AT
+47.238484  10.85911  Γ–tztal  Europe/Vienna  AT
+47.219077  10.76166  Imst-Pitztal  Europe/Vienna  AT
+47.127566  10.26699  St. Anton am Arlberg  Europe/Vienna  AT
+47.131719  10.12037  Langen am Arlberg  Europe/Vienna  AT
+47.154723  9.814566  Bludenz  Europe/Vienna  AT
+47.346625  15.00918  St. Michael in Obersteiermark  Europe/Vienna  AT
+46.770587  14.36718  St. Veit/Glan  Europe/Vienna  AT
+46.626337  14.22151  Krumpendorf/WΓ¶rthersee  Europe/Vienna  AT
+46.636198  14.14623  PΓ¶rtschaCH,am WΓ¶rther See  "  Europe/Vienna  AT
+46.620053  14.04483  Velden am WΓ¶rther See  Europe/Vienna  AT
+46.564374  13.91300  Faak am See  Europe/Vienna  AT
+47.392263  11.26692  Scharnitz  Europe/Vienna  AT
+47.410079  10.91400  Ehrwald Zugspitzbahn  Europe/Vienna  AT
+46.981671  13.17642  Mallnitz-ObervellaCH, "  Europe/Vienna  AT
+47.195714  13.10094  Bad Hofgastein  Europe/Vienna  AT
+47.238673  13.10306  Dorfgastein  Europe/Vienna  AT
+47.475979  11.98206  Kundl  Europe/Vienna  AT
+47.434773  11.88001  Brixlegg  Europe/Vienna  AT
+47.35013  11.70179  Schwaz  Europe/Vienna  AT
+47.302164  11.58881  Fritzens-Wattens  Europe/Vienna  AT
+47.277075  11.501356  Hall in Tirol  Europe/Vienna  AT
+47.127126  11.452823  Matrei am Brenner  Europe/Vienna  AT
+47.089218  11.469831  "SteinaCH,in Tirol  "  Europe/Vienna  AT
+47.255591  11.391867  Innsbruck Westbahnhof  Europe/Vienna  AT
+47.300851  11.200649  Reith bei Seefeld  Europe/Vienna  AT
+47.328727  11.189484  Seefeld in Tirol  Europe/Vienna  AT
+47.422736  10.794516  Bichlbach-Berwang  Europe/Vienna  AT
+47.5489  10.637331  Vils in Tirol  Europe/Vienna  AT
+47.079501  9.9176    Schruns  Europe/Vienna  AT
+47.079151  9.904908  Tschagguns  Europe/Vienna  AT
+47.273362  9.637164  Rankweil  Europe/Vienna  AT
+47.336611  9.636696  GΓ¶tzis  Europe/Vienna  AT
+47.364711  9.681004  Hohenems  Europe/Vienna  AT
+47.426952  13.901359  GrΓ¶bming  Europe/Vienna  AT
+47.384424  13.468393  Radstadt  Europe/Vienna  AT
+47.382474  13.428418  Altenmarkt im Pongau  Europe/Vienna  AT
+47.407032  13.396435  Eben im Pongau  Europe/Vienna  AT
+46.829286  12.771181  Lienz in Osttirol  Europe/Vienna  AT
+46.744239  12.4296  Sillian  Europe/Vienna  AT
+46.746837  12.973681  Oberdrauburg  Europe/Vienna  AT
+46.742855  13.192856  Greifenburg-WeiΓ​ensee  Europe/Vienna  AT
+47.640077  13.612634  Bad Goisern  Europe/Vienna  AT
+47.557727  13.683308  Obertraun-DachsteinhΓ¶hlen  Europe/Vienna  AT
+47.599069  13.776831  Bad Aussee  Europe/Vienna  AT
+47.550374  13.945226  Bad Mitterndorf  Europe/Vienna  AT
+47.551695  14.009994  Tauplitz  Europe/Vienna  AT
+47.906482  14.116273  Kirchdorf/Krems  Europe/Vienna  AT
+47.7747  14.179036  Hinterstoder  Europe/Vienna  AT
+48.019072  16.780082  Bruck/Leitha  Europe/Vienna  AT
+47.344746  11.853167  FΓΌgen-Hart im Zillertal  Europe/Vienna  AT
+46.626085  13.380686  Hermagor  Europe/Vienna  AT
+47.292339  11.875963  Kaltenbach-Stumm im Zillertal  Europe/Vienna  AT
+47.519523  12.093889  Kirchbichl  Europe/Vienna  AT
+46.670204  13.008595  KΓ¶tschach-Mauthen  Europe/Vienna  AT
+48.408826  15.604024  Krems an der Donau  Europe/Vienna  AT
+47.544873  12.108137  Langkampfen  Europe/Vienna  AT
+47.366059  11.722985  Stans bei Schwaz  Europe/Vienna  AT
+47.315917  11.634387  Terfens-Weer  Europe/Vienna  AT
+47.326336  11.865239  Uderns im Zillertal  Europe/Vienna  AT
+47.296366  11.564496  Volders-Baumkirchen  Europe/Vienna  AT
+48.174145  16.331395  (EichenstraΓ​e)  Europe/Vienna  AT
+47.471512  10.73783  Bad Kreckelmoos  Europe/Vienna  AT
+48.25912  13.047986  Braunau/Inn  Europe/Vienna  AT
+47.449227  12.260549  Brixen im Thale  Europe/Vienna  AT
+47.053396  15.448295  Graz Ostbahnhof-Messe  Europe/Vienna  AT
+47.09872  9.868834  Vandans  Europe/Vienna  AT
+47.205161  11.869914  "Ramsau im Zillertal-HippaCH, "  Europe/Vienna  AT
+48.200447  13.488206  Ried im Innkreis  Europe/Vienna  AT
+47.903893  13.138417  Seekirchen am Wallersee  Europe/Vienna  AT
+47.439222  11.896036  "Rattenberg-KramsaCH, "  Europe/Vienna  AT
+47.278028  11.456167  Rum (Innsbruck)  Europe/Vienna  AT
+47.55921  12.125917  Schaftenau  Europe/Vienna  AT
+47.377826  11.843593  Schlitters-Bruck am Ziller  Europe/Vienna  AT
+47.40332  11.819484  MΓΌnster-Wiesing  Europe/Vienna  AT
+48.010064  13.663702  VΓ¶cklabruck  Europe/Vienna  AT
+47.998037  13.489545  VΓ¶cklamarkt  Europe/Vienna  AT
+47.715326  14.326926  Windischgarsten  Europe/Vienna  AT
+47.324196  11.677356  "Pill-VomperbaCH, "  Europe/Vienna  AT
+47.472599  13.195184  Werfen  Europe/Vienna  AT
+47.169528  11.86239  Mayrhofen im Zillertal  Europe/Vienna  AT
+48.504201  13.455548  Wernstein  Europe/Vienna  AT
+47.231383  11.881366  Zell am Ziller  Europe/Vienna  AT
+47.406771  10.879374  Lermoos  Europe/Vienna  AT
+47.420848  10.834042  LΓ¤hn  Europe/Vienna  AT
+47.53262  10.674933  Musau  Europe/Vienna  AT
+47.513761  10.718926  "PflaCH, "  Europe/Vienna  AT
+47.558932  10.596601  SchΓ¶nbichl in Tirol  Europe/Vienna  AT
+47.546059  10.663741  UlrichsbrΓΌcke-FΓΌssen  Europe/Vienna  AT
+47.067896  15.413479  Graz KΓ¶flacher Bahnhof  Europe/Vienna  AT
+47.032407  15.405856  Graz Webling  Europe/Vienna  AT
+47.050619  15.401667  Graz Wetzelsdorf  Europe/Vienna  AT
+48.171196  16.331727  Wien Schedifkaplatz (Lokalbahn)  Europe/Vienna  AT
+47.490056  10.732697  Reutte in Tirol Schulzentrum  Europe/Vienna  AT
+48.17525  16.335827  Bahnhof)  Europe/Vienna  AT
+47.428175  10.781482  "BichlbaCH,Almkopfbahn  "  Europe/Vienna  AT
+47.221674  11.872601  "LaimaCH,Regionalmuseum  "  Europe/Vienna  AT
+47.816311  13.010384  Salzburg Taxham Europark  Europe/Vienna  AT
+47.807816  13.026744  Salzburg Aiglhof  Europe/Vienna  AT
+47.8084  13.034161  Salzburg MΓΌlln-Altstadt  Europe/Vienna  AT
+47.819808  13.06289  Salzburg Sam  Europe/Vienna  AT
+48.197022  16.260955  Wien HΓΌtteldorf (U4)  Europe/Vienna  AT
+48.174019  16.330271  Wien Bahnhof Meidling (U6)  Europe/Vienna  AT
+47.148619  10.578164  A-E)  Europe/Vienna  AT
+47.417361  13.220084  Bischofshofen  Europe/Vienna  AT
+47.148242  10.578388  Landeck-Zams  Europe/Vienna  AT
+46.795703  13.487415  Spittal-MillstΓ¤ttersee  Europe/Vienna  AT
+47.492987  10.721506  Reutte in Tirol  Europe/Vienna  AT
+47.529195  14.106753  Stainach-Irdning  Europe/Vienna  AT
+47.393827  13.678148  Schladming  Europe/Vienna  AT
+47.550356  14.312768  Selzthal  Europe/Vienna  AT
+48.069627  14.190803  Rohr-Bad Hall  Europe/Vienna  AT
+48.197651  16.260551  Wien HΓΌtteldorf  Europe/Vienna  AT
+48.174999  16.336123  Wien Meidling  Europe/Vienna  AT
+47.442503  10.748455  Heiterwang-Plansee  Europe/Vienna  AT
+50.878405  4.378654  Schaerbeek  Europe/Brussels  BE
+50.845496  4.357062  Bruxelles-Central  Europe/Brussels  BE
+50.838808  4.373998  Bruxelles-Luxembourg  Europe/Brussels  BE
+50.733373  4.240085  Halle  Europe/Brussels  BE
+51.199527  4.432464  Antwerpen-Berchem  Europe/Brussels  BE
+51.462641  4.450999  Essen  Europe/Brussels  BE
+51.017504  4.483468  Mechelen  Europe/Brussels  BE
+50.661028  5.509686  Ans  Europe/Brussels  BE
+50.485037  5.585968  Rivage  Europe/Brussels  BE
+50.594715  5.456227  Flemalle-Haute  Europe/Brussels  BE
+50.49684  5.094663  Andenne  Europe/Brussels  BE
+50.160356  5.266761  Jemelle  Europe/Brussels  BE
+49.919832  5.379387  Libramont  Europe/Brussels  BE
+49.680125  5.809431  Arlon  Europe/Brussels  BE
+50.30368  4.112295  Erquelinnes  Europe/Brussels  BE
+50.34068  3.909372  Quevy  Europe/Brussels  BE
+50.697165  4.047411  Enghien  Europe/Brussels  BE
+50.600567  3.616674  Leuze  Europe/Brussels  BE
+50.984137  4.823755  Aarschot  Europe/Brussels  BE
+50.612882  5.599524  Angleur  Europe/Brussels  BE
+49.852709  5.267723  Bertrix  Europe/Brussels  BE
+50.285459  4.406188  BerzΓ©e  Europe/Brussels  BE
+51.20822  4.259628  Beveren  Europe/Brussels  BE
+50.868454  5.50929  Bilzen  Europe/Brussels  BE
+51.311739  3.134511  Blankenberge  Europe/Brussels  BE
+50.505236  3.66669  Blaton  Europe/Brussels  BE
+50.60552  4.138705  Braine-le-Comte  Europe/Brussels  BE
+50.684562  4.37593  Braine-lβ€™Alleud  Europe/Brussels  BE
+51.016318  4.20091  Buggenhout  Europe/Brussels  BE
+50.409555  4.52054  ChΓΆtelet  Europe/Brussels  BE
+50.291365  5.091157  Ciney  Europe/Brussels  BE
+51.077373  2.601729  "DE,Panne  "  Europe/Brussels  BE
+50.996641  3.649692  "DE,Pinte  "  Europe/Brussels  BE
+50.978159  3.535016  Deinze  Europe/Brussels  BE
+50.891494  4.071376  Denderleeuw  Europe/Brussels  BE
+51.023015  4.101283  "DendermonDE, "  Europe/Brussels  BE
+50.992883  5.051389  Diest  Europe/Brussels  BE
+51.032723  2.869114  "DiksmuiDE, "  Europe/Brussels  BE
+50.482206  4.543939  Fleurus  Europe/Brussels  BE
+50.57066  4.691362  Gembloux  Europe/Brussels  BE
+51.055852  3.740609  Gent-Dampoort  Europe/Brussels  BE
+50.770517  3.871797  Geraardsbergen  Europe/Brussels  BE
+50.189724  5.953735  Gouvy  Europe/Brussels  BE
+50.090807  5.280686  Grupont  Europe/Brussels  BE
+50.190002  5.006119  Houyet  Europe/Brussels  BE
+50.847824  2.876206  Ieper  Europe/Brussels  BE
+50.921041  3.214758  Izegem  Europe/Brussels  BE
+50.352743  4.411501  Jamioulx  Europe/Brussels  BE
+50.451652  4.664152  Jemeppe-sur-Sambre  Europe/Brussels  BE
+50.880886  4.328593  Jette  Europe/Brussels  BE
+50.530235  3.910118  Jurbise  Europe/Brussels  BE
+51.313375  4.432652  Kapellen  Europe/Brussels  BE
+51.339831  3.284883  Knokke  Europe/Brussels  BE
+51.07909  2.653085  "KoksijDE, "  Europe/Brussels  BE
+51.025055  3.04319  Kortemark  Europe/Brussels  BE
+50.747801  5.080262  Landen  Europe/Brussels  BE
+51.1175  5.257835  L  eopoldsburg  Europe/Brussels  BE
+50.713184  3.836892  Lessines  Europe/Brussels  BE
+51.025028  3.127212  "LichtervelDE, "  Europe/Brussels  BE
+50.807759  4.925612  Tienen  Europe/Brussels  BE
+50.784001  5.473756  Tongeren  Europe/Brussels  BE
+50.36905  5.87303  Trois-Ponts  Europe/Brussels  BE
+50.924565  4.433039  "VilvoorDE, "  Europe/Brussels  BE
+50.259237  4.436023  Walcourt  Europe/Brussels  BE
+50.69454  5.24952  Waremme  Europe/Brussels  BE
+50.320993  4.878913  Yvoir  Europe/Brussels  BE
+51.006394  4.988276  Zichem  Europe/Brussels  BE
+51.081139  4.326301  "Ruisbroek-SauvegarDE, "  Europe/Brussels  BE
+51.330644  3.183907  Zeebrugge-Strand  Europe/Brussels  BE
+50.449063  4.631098  Auvelais  Europe/Brussels  BE
+50.644506  5.612648  Bressoux  Europe/Brussels  BE
+50.635364  6.037155  Eupen  Europe/Brussels  BE
+50.967012  5.496256  Genk  Europe/Brussels  BE
+51.020048  3.764727  Merelbeke  Europe/Brussels  BE
+50.346001  4.262262  Lobbes  Europe/Brussels  BE
+51.107603  3.98641  Lokeren  Europe/Brussels  BE
+51.008443  4.513627  Muizen  Europe/Brussels  BE
+50.432594  4.609938  Tamines  Europe/Brussels  BE
+50.714847  4.383535  Waterloo  Europe/Brussels  BE
+50.191612  4.535983  Philippeville  Europe/Brussels  BE
+51.172038  4.144242  Sint-Niklaas  Europe/Brussels  BE
+50.843123  4.380371  Bruxelles-Schuman  Europe/Brussels  BE
+50.974761  4.187166  Opwijk  Europe/Brussels  BE
+50.600603  4.335344  Nivelles  Europe/Brussels  BE
+49.727454  5.539566  Marbehan  Europe/Brussels  BE
+51.009136  4.298524  Londerzeel  Europe/Brussels  BE
+50.740133  3.227702  Mouscron  Europe/Brussels  BE
+50.85622  3.314448  Harelbeke  Europe/Brussels  BE
+50.349318  5.501991  Barvaux  Europe/Brussels  BE
+50.626869  3.776736  Ath  Europe/Brussels  BE
+50.948899  3.130358  Roeselare  Europe/Brussels  BE
+50.612981  3.396825  Tournai  Europe/Brussels  BE
+50.737859  5.692652  VisΓ©  Europe/Brussels  BE
+50.390732  5.880806  Coo  Europe/Brussels  BE
+50.472848  5.672993  Aywaille  Europe/Brussels  BE
+50.509048  5.57848  Poulseur  Europe/Brussels  BE
+50.056594  4.492062  Couvin  Europe/Brussels  BE
+51.391375  4.466506  Kalmthout  Europe/Brussels  BE
+50.527026  5.233456  Huy  Europe/Brussels  BE
+51.244734  4.424832  Antwerpen-Luchtbal  Europe/Brussels  BE
+51.261616  4.427834  Antwerpen-Noorderdokken  Europe/Brussels  BE
+51.281518  4.434261  Ekeren  Europe/Brussels  BE
+51.291379  4.43499  Sint-Mariaburg  Europe/Brussels  BE
+51.379392  4.467126  Kijkuit  Europe/Brussels  BE
+51.427188  4.463539  Wildert  Europe/Brussels  BE
+51.183095  4.44833  Mortsel  Europe/Brussels  BE
+51.163606  4.494291  Boechout  Europe/Brussels  BE
+51.168757  5.165246  Balen  Europe/Brussels  BE
+51.038081  5.281288  Heusden  Europe/Brussels  BE
+51.113374  4.639099  Berlaar  Europe/Brussels  BE
+51.073633  4.708945  Heist-op-den-Berg  Europe/Brussels  BE
+51.037568  4.773065  Booischot  Europe/Brussels  BE
+51.022565  4.799466  Begijnendijk  Europe/Brussels  BE
+50.817512  5.176276  Sint-Truiden  Europe/Brussels  BE
+50.955668  5.40844  Bokrijk  Europe/Brussels  BE
+50.841226  4.34863  Bruxelles-Chapelle  Europe/Brussels  BE
+50.851519  4.362204  Bruxelles-CongrΓ¨s  Europe/Brussels  BE
+50.90842  4.417883  Buda  Europe/Brussels  BE
+50.977511  4.470838  "WeerDE, "  Europe/Brussels  BE
+51.09163  4.492808  Duffel  Europe/Brussels  BE
+51.134238  4.476601  "KontiCH, "  Europe/Brussels  BE
+51.153107  4.465733  Hove  Europe/Brussels  BE
+51.171184  4.455764  "Mortsel-OuDE,God  "  Europe/Brussels  BE
+51.18234  4.447233  Mortsel-Deurnesteenweg  Europe/Brussels  BE
+51.094812  4.672026  Melkouwen  Europe/Brussels  BE
+50.886819  5.292533  Alken  Europe/Brussels  BE
+50.82136  4.390538  Etterbeek  Europe/Brussels  BE
+50.818456  4.403914  Delta  Europe/Brussels  BE
+50.838862  4.399977  "MeroDE, "  Europe/Brussels  BE
+50.855096  4.394214  Meiser  Europe/Brussels  BE
+50.867555  4.400902  Evere  Europe/Brussels  BE
+50.876742  4.409092  Bordet  Europe/Brussels  BE
+50.988532  4.498498  "HofstaDE, "  Europe/Brussels  BE
+50.640506  5.561958  LiΓ¨ge-CarrΓ©  Europe/Brussels  BE
+50.660606  5.622483  Herstal  Europe/Brussels  BE
+50.69303  5.599803  Milmort  Europe/Brussels  BE
+50.698226  5.568457  Liers  Europe/Brussels  BE
+50.750651  5.535188  Glons  Europe/Brussels  BE
+50.910506  5.420378  Diepenbeek  Europe/Brussels  BE
+50.956594  4.748434  Wezemaal  Europe/Brussels  BE
+51.009783  4.946862  Testelt  Europe/Brussels  BE
+50.964046  5.185625  Schulen  Europe/Brussels  BE
+50.88984  4.44557  Diegem  Europe/Brussels  BE
+50.884923  4.472663  Zaventem  Europe/Brussels  BE
+50.883287  4.505878  Nossegem  Europe/Brussels  BE
+50.892734  4.54099  Kortenberg  Europe/Brussels  BE
+50.896573  4.586871  Erps-Kwerps  Europe/Brussels  BE
+50.900384  4.633238  Veltem  Europe/Brussels  BE
+50.903701  4.675118  Herent  Europe/Brussels  BE
+50.83594  4.835926  Vertrijk  Europe/Brussels  BE
+50.771784  4.994847  Ezemaal  Europe/Brussels  BE
+50.763775  5.036745  Neerwinden  Europe/Brussels  BE
+50.685326  5.28598  Bleret  Europe/Brussels  BE
+50.678773  5.320679  Remicourt  Europe/Brussels  BE
+50.669946  5.367252  Momalle  Europe/Brussels  BE
+50.664031  5.398669  Fexhe-le-Haut-Clocher  Europe/Brussels  BE
+50.661028  5.43014  Voroux  Europe/Brussels  BE
+50.658179  5.457387  Bierset-Awans  Europe/Brussels  BE
+50.60792  5.616433  ChΓùnΓ©e  Europe/Brussels  BE
+50.573195  5.688715  Trooz  Europe/Brussels  BE
+50.565059  5.724186  Fraipont  Europe/Brussels  BE
+50.571963  5.742084  Nessonvaux  Europe/Brussels  BE
+50.570588  5.584153  Tilff  Europe/Brussels  BE
+50.547539  5.587299  MΓ©ry  Europe/Brussels  BE
+50.539764  5.573518  Hony  Europe/Brussels  BE
+50.530577  5.572781  Esneux  Europe/Brussels  BE
+50.278825  5.909131  Vielsalm  Europe/Brussels  BE
+50.456766  5.567118  Comblain-la-Tour  Europe/Brussels  BE
+50.428226  5.533741  Hamoir  Europe/Brussels  BE
+50.403065  5.523808  Sy  Europe/Brussels  BE
+50.376942  5.519403  Bomal  Europe/Brussels  BE
+50.283931  5.440451  Melreux-Hotton  Europe/Brussels  BE
+50.222337  5.345848  Marche-en-Famenne  Europe/Brussels  BE
+50.879286  4.348963  Bockstael  Europe/Brussels  BE
+50.872661  4.290119  Sint-Agatha-Berchem  Europe/Brussels  BE
+50.868454  4.274982  Groot-Bijgaarden  Europe/Brussels  BE
+50.866234  4.244904  Dilbeek  Europe/Brussels  BE
+50.874486  4.166095  "TernAT, "  Europe/Brussels  BE
+50.882163  4.117059  Essene-Lombeek  Europe/Brussels  BE
+50.970581  3.98579  "LeDE, "  Europe/Brussels  BE
+50.985197  3.958498  Serskamp  Europe/Brussels  BE
+50.991732  3.828604  Kwatrecht  Europe/Brussels  BE
+51.047268  3.654771  Drongen  Europe/Brussels  BE
+51.06459  3.57536  Landegem  Europe/Brussels  BE
+51.073193  3.535763  Hansbeke  Europe/Brussels  BE
+51.083584  3.48812  Bellem  Europe/Brussels  BE
+51.09198  3.449044  Aalter  Europe/Brussels  BE
+51.107891  3.385867  Maria-Aalter  Europe/Brussels  BE
+51.128225  3.329119  Beernem  Europe/Brussels  BE
+51.154536  3.257016  Oostkamp  Europe/Brussels  BE
+51.294813  3.194137  Lissewege  Europe/Brussels  BE
+51.305357  3.191449  Zwankendamme  Europe/Brussels  BE
+51.19754  4.390969  Antwerpen-Zuid  Europe/Brussels  BE
+51.182996  4.348423  Hoboken-Polder  Europe/Brussels  BE
+51.136414  4.338472  Hemiksem  Europe/Brussels  BE
+51.090731  4.360325  Boom  Europe/Brussels  BE
+51.010879  4.359013  Kapelle-op-den-Bos  Europe/Brussels  BE
+51.014457  4.22857  Malderen  Europe/Brussels  BE
+51.019473  4.153861  Baasrode-Zuid  Europe/Brussels  BE
+51.015113  4.064229  Oudegem  Europe/Brussels  BE
+51.001872  3.969951  Wichelen  Europe/Brussels  BE
+50.922731  4.701268  Wijgmaal  Europe/Brussels  BE
+50.944063  4.663414  Hambos  Europe/Brussels  BE
+50.957924  4.638829  Wespelaar-Tildonk  Europe/Brussels  BE
+50.966131  4.613192  Haacht  Europe/Brussels  BE
+50.98215  4.573396  Boortmeerbeek  Europe/Brussels  BE
+50.997539  4.537952  Hever  Europe/Brussels  BE
+51.038809  3.756088  Gentbrugge  Europe/Brussels  BE
+51.089193  3.719655  Wondelgem  Europe/Brussels  BE
+51.126175  3.667859  Sleidinge  Europe/Brussels  BE
+51.154419  3.615218  Waarschoot  Europe/Brussels  BE
+51.180991  3.574884  Eeklo  Europe/Brussels  BE
+51.185342  4.185314  Nieuwkerken-Waas  Europe/Brussels  BE
+51.214108  4.32996  Zwijndrecht  Europe/Brussels  BE
+50.889615  4.27544  Zellik  Europe/Brussels  BE
+50.906497  4.208335  Asse  Europe/Brussels  BE
+50.932853  4.216462  Mollem  Europe/Brussels  BE
+50.954427  4.223222  Merchtem  Europe/Brussels  BE
+50.989449  4.156162  "HeizijDE, "  Europe/Brussels  BE
+51.005288  4.134273  Lebbeke  Europe/Brussels  BE
+50.913985  3.255353  Ingelmunster  Europe/Brussels  BE
+50.826205  3.22523  Bissegem  Europe/Brussels  BE
+50.771757  2.998199  Comines  Europe/Brussels  BE
+50.942786  4.03923  Aalst  Europe/Brussels  BE
+51.066451  4.35619  Willebroek  Europe/Brussels  BE
+51.099037  4.240742  Bornem  Europe/Brussels  BE
+51.150698  4.087943  Belsele  Europe/Brussels  BE
+51.210692  4.287503  Melsele  Europe/Brussels  BE
+50.943388  3.983569  Vijfhuizen  Europe/Brussels  BE
+50.92923  3.962903  Erpe-Mere  Europe/Brussels  BE
+50.913841  3.935828  Bambrugge  Europe/Brussels  BE
+50.960926  3.627929  Eke-Nazareth  Europe/Brussels  BE
+50.929096  3.639966  Gavere-Asper  Europe/Brussels  BE
+50.870387  3.623758  Eine  Europe/Brussels  BE
+50.906847  4.023832  Haaltert  Europe/Brussels  BE
+50.911144  3.987542  "EDE, "  Europe/Brussels  BE
+50.901652  3.896491  Terhagen  Europe/Brussels  BE
+50.897121  3.879834  Herzele  Europe/Brussels  BE
+50.891539  3.858161  Hillegem  Europe/Brussels  BE
+50.826367  3.494349  Anzegem  Europe/Brussels  BE
+50.824138  3.994078  Eichem  Europe/Brussels  BE
+50.813144  3.972414  Appelterre  Europe/Brussels  BE
+50.806779  3.956961  Zandbergen  Europe/Brussels  BE
+50.801665  3.9214  I  degem  Europe/Brussels  BE
+50.797844  3.899223  Schendelbeke  Europe/Brussels  BE
+50.661208  3.793546  Rebaix  Europe/Brussels  BE
+50.686387  3.82322  Papignies  Europe/Brussels  BE
+50.702666  3.83522  Houraing  Europe/Brussels  BE
+50.733068  3.846978  Acren  Europe/Brussels  BE
+50.614851  3.799326  Maffle  Europe/Brussels  BE
+50.599785  3.834456  Mevergnies-Attre  Europe/Brussels  BE
+50.594256  3.85203  Brugelette  Europe/Brussels  BE
+50.586544  3.874899  Cambron-Casteau  Europe/Brussels  BE
+50.558875  3.903358  Lens  Europe/Brussels  BE
+50.507376  3.888131  ErbisΕ“ul  Europe/Brussels  BE
+50.487447  3.906891  Ghlin  Europe/Brussels  BE
+50.809081  4.309788  Vorst-Zuid  Europe/Brussels  BE
+50.790797  4.294695  Ruisbroek  Europe/Brussels  BE
+50.766301  4.273732  Lot  Europe/Brussels  BE
+50.651518  4.176658  HennuyΓ¨res  Europe/Brussels  BE
+50.543189  4.010024  Neufvilles  Europe/Brussels  BE
+50.536429  3.961707  Masnuy-Saint-Pierre  Europe/Brussels  BE
+50.405771  3.906352  Frameries  Europe/Brussels  BE
+50.391523  3.911089  Genly  Europe/Brussels  BE
+50.436127  3.796162  Boussu  Europe/Brussels  BE
+50.428378  3.768547  Hainin  Europe/Brussels  BE
+50.423335  3.745894  Thulin  Europe/Brussels  BE
+50.561913  4.157187  Γ‰caussinnes  Europe/Brussels  BE
+50.546209  4.177008  Marche-lez-Γ‰caussinnes  Europe/Brussels  BE
+50.52023  4.210205  Familleureux  Europe/Brussels  BE
+50.429637  4.210565  Leval  Europe/Brussels  BE
+50.408899  4.173017  Binche  Europe/Brussels  BE
+50.492975  4.290398  Godarville  Europe/Brussels  BE
+50.496714  4.325258  Gouy-lez-Pieton  Europe/Brussels  BE
+50.512724  4.362312  Pont-Γ -Celles  Europe/Brussels  BE
+50.462978  4.400678  Courcelles-Motte  Europe/Brussels  BE
+50.442932  4.394008  Roux  Europe/Brussels  BE
+50.469873  4.008397  Obourg  Europe/Brussels  BE
+50.470601  4.060373  Havre  Europe/Brussels  BE
+50.469594  4.097615  Thieu  Europe/Brussels  BE
+50.447804  4.263925  Carnieres  Europe/Brussels  BE
+50.433179  4.324135  Forchies  Europe/Brussels  BE
+50.97984  3.801529  "GontroDE, "  Europe/Brussels  BE
+50.970626  3.791308  Landskouter  Europe/Brussels  BE
+50.95342  3.781231  Moortsele  Europe/Brussels  BE
+50.919432  3.791542  Balegem-Dorp  Europe/Brussels  BE
+50.899683  3.80605  Balegem-Zuid  Europe/Brussels  BE
+50.815805  3.827337  "LierDE, "  Europe/Brussels  BE
+50.724366  4.013521  Herne  Europe/Brussels  BE
+50.743594  3.966409  Galmaarden  Europe/Brussels  BE
+50.809917  4.321042  Vorst-Oost  Europe/Brussels  BE
+50.802465  4.32382  Ukkel-Stalle  Europe/Brussels  BE
+50.791525  4.332279  Ukkel-Kalevoet  Europe/Brussels  BE
+50.773825  4.339344  Linkebeek  Europe/Brussels  BE
+50.767272  4.354572  Holleken  Europe/Brussels  BE
+50.747918  4.361997  "Sint-Genesius-RoDE, "  Europe/Brussels  BE
+50.739171  4.37042  "DE,Hoek  "  Europe/Brussels  BE
+50.645279  4.365314  Lillois  Europe/Brussels  BE
+50.535215  4.363696  Obaix-Buzet  Europe/Brussels  BE
+50.610707  5.555729  Sclessin  Europe/Brussels  BE
+50.619705  5.510135  Pont-de-Seraing  Europe/Brussels  BE
+50.618464  5.497892  Jemeppe-sur-Meuse  Europe/Brussels  BE
+50.605079  5.480552  "Flemalle-GranDE, "  Europe/Brussels  BE
+50.599578  5.46723  Leman  Europe/Brussels  BE
+50.582831  5.402714  Engis  Europe/Brussels  BE
+50.553742  5.330612  Haute-FlΓ΄ne  Europe/Brussels  BE
+50.546227  5.321191  Amay  Europe/Brussels  BE
+50.539296  5.289756  Ampsin  Europe/Brussels  BE
+50.522918  5.191674  Bas-Oha  Europe/Brussels  BE
+50.497416  5.081359  ChΓΆteau-de-Seilles  Europe/Brussels  BE
+50.492112  5.026192  Sclaigneaux  Europe/Brussels  BE
+50.470097  4.997175  NamΓùche  Europe/Brussels  BE
+50.480624  4.965371  Marche-les-Dames  Europe/Brussels  BE
+50.392673  4.469149  Couillet  Europe/Brussels  BE
+50.42392  4.543193  Le Campinaire  Europe/Brussels  BE
+50.428936  4.552452  Farciennes  Europe/Brussels  BE
+50.429547  4.584471  Aiseau  Europe/Brussels  BE
+50.452829  4.695101  Moustier  Europe/Brussels  BE
+50.439525  4.733674  FraniΓ¨re  Europe/Brussels  BE
+50.443381  4.7627  F  loreffe  Europe/Brussels  BE
+50.397959  4.390745  Marchienne-Zone  Europe/Brussels  BE
+50.377446  4.350824  Landelies  Europe/Brussels  BE
+50.364879  4.308448  Hourpes  Europe/Brussels  BE
+50.342487  4.288357  Thuin  Europe/Brussels  BE
+50.321155  4.213037  Fontaine-Valmont  Europe/Brussels  BE
+50.333776  4.406485  BeignΓ©e  Europe/Brussels  BE
+50.319924  4.404894  Ham-sur-Heure  Europe/Brussels  BE
+50.300363  4.39167  Cour-sur-Heure  Europe/Brussels  BE
+50.269179  4.429191  Pry  Europe/Brussels  BE
+50.236944  4.495307  Yves-GomezΓ©e  Europe/Brussels  BE
+50.691816  4.575644  Limal  Europe/Brussels  BE
+50.705273  4.591618  Bierges-Walibi  Europe/Brussels  BE
+50.716168  4.60529  Wavre  Europe/Brussels  BE
+50.724303  4.621749  Basse-Wavre  Europe/Brussels  BE
+50.736484  4.650011  Gastuche  Europe/Brussels  BE
+50.754201  4.662417  Archennes  Europe/Brussels  BE
+50.76124   4.654200  Fl  orival  Europe/Brussels  BE
+50.778526  4.651414  PΓ©crot  Europe/Brussels  BE
+50.800658  4.65171  Sint-Joris-Weert  Europe/Brussels  BE
+50.835464  4.653203  Oud-Heverlee  Europe/Brussels  BE
+50.411461  4.437012  Charleroi-Ouest  Europe/Brussels  BE
+50.432558  4.463171  Lodelinsart  Europe/Brussels  BE
+50.511475  4.566052  Ligny  Europe/Brussels  BE
+50.578112  4.533269  Villers-la-Ville  Europe/Brussels  BE
+50.610707  4.539777  La Roche (Brabant)  Europe/Brussels  BE
+50.621997  4.549449  Faux  Europe/Brussels  BE
+50.64598  4.565684  Court-Saint-Γ‰tienne  Europe/Brussels  BE
+50.659986  4.569189  Ceroux-Mousty  Europe/Brussels  BE
+50.369023  4.877025  Lustin  Europe/Brussels  BE
+50.348851  4.869097  Godinne  Europe/Brussels  BE
+50.809296  4.399851  Watermael  Europe/Brussels  BE
+50.794482  4.408184  Boitsfort  Europe/Brussels  BE
+50.766157  4.449228  Groenendaal  Europe/Brussels  BE
+50.759937  4.468124  Hoeilaart  Europe/Brussels  BE
+50.738093  4.497177  La Hulpe  Europe/Brussels  BE
+50.725778  4.514886  Genval  Europe/Brussels  BE
+50.711754  4.532927  Rixensart  Europe/Brussels  BE
+50.693848  4.549341  Profondsart  Europe/Brussels  BE
+50.670161  4.616706  Louvain-la-Neuve-UniversitΓ©  Europe/Brussels  BE
+50.638205  4.613084  Mont-Saint-Guibert  Europe/Brussels  BE
+50.620424  4.63588  Blanmont  Europe/Brussels  BE
+50.608154  4.649508  Chastre  Europe/Brussels  BE
+50.592018  4.667675  Ernage  Europe/Brussels  BE
+50.55145  4.720775  LonzΓ©e  Europe/Brussels  BE
+50.533921  4.748587  Beuzet  Europe/Brussels  BE
+50.521192  4.767878  Saint-Denis-Bovesse  Europe/Brussels  BE
+50.419704  4.929738  Naninne  Europe/Brussels  BE
+50.406436  4.949406  Sart-Bernard  Europe/Brussels  BE
+50.388988  4.994991  CourriΓ¨re  Europe/Brussels  BE
+50.368052  5.022902  Assesse  Europe/Brussels  BE
+50.357858  5.05609  FlorΓ©e  Europe/Brussels  BE
+50.342945  5.061232  Natoye  Europe/Brussels  BE
+50.26775  5.107508  Leignon  Europe/Brussels  BE
+50.261763  5.125487  Chapois  Europe/Brussels  BE
+50.248855  5.194677  Haversin  Europe/Brussels  BE
+50.132588  5.276659  ForriΓ¨res  Europe/Brussels  BE
+49.71815  5.632146  Habay  Europe/Brussels  BE
+49.690921  5.767991  Stockem  Europe/Brussels  BE
+49.688072  5.785969  Viville  Europe/Brussels  BE
+49.707048  5.331906  Florenville  Europe/Brussels  BE
+50.237268  4.904424  Anseremme  Europe/Brussels  BE
+50.210453  4.964652  Gendron-Celles  Europe/Brussels  BE
+50.114259  4.95702  Beauraing  Europe/Brussels  BE
+49.984284  4.978172  Gedinne  Europe/Brussels  BE
+49.933792  5.043415  "GraiDE, "  Europe/Brussels  BE
+49.907292  5.087328  Carlsbourg  Europe/Brussels  BE
+50.452577  3.885389  Jemappes  Europe/Brussels  BE
+50.464983  3.723628  Ville-PommerΕ“ul  Europe/Brussels  BE
+50.48235  3.698863  Harchies  Europe/Brussels  BE
+50.530478  3.519807  Callenelle  Europe/Brussels  BE
+50.546874  3.496848  Maubray  Europe/Brussels  BE
+50.56941  3.45157  Antoing  Europe/Brussels  BE
+50.801835  4.393567  Boondaal-Boondael  Europe/Brussels  BE
+50.794042  4.361862  Sint-Job  Europe/Brussels  BE
+50.778634  4.331542  Moensberg  Europe/Brussels  BE
+50.766166  4.30203  Beersel  Europe/Brussels  BE
+50.751801  4.266559  Huizingen  Europe/Brussels  BE
+50.646484  5.570714  LiΓ¨ge-Saint-Lambert  Europe/Brussels  BE
+50.984541  3.418112  Aarsele  Europe/Brussels  BE
+51.169296  4.469032  Mortsel-Liersesteenweg  Europe/Brussels  BE
+50.863169  4.330634  Simonis  Europe/Brussels  BE
+50.79601  4.372658  Vivier dβ€™Oie  Europe/Brussels  BE
+50.849226  4.321303  Bruxelles-Ouest  Europe/Brussels  BE
+51.125465  4.34027  Schelle  Europe/Brussels  BE
+51.089005  5.234589  Beverlo  Europe/Brussels  BE
+49.555984  5.743289  Halanzy  Europe/Brussels  BE
+49.563553  5.799157  Aubange  Europe/Brussels  BE
+51.107145  3.702063  Evergem  Europe/Brussels  BE
+51.08718  3.879897  "BeervelDE, "  Europe/Brussels  BE
+50.261179  4.907813  Dinant  Europe/Brussels  BE
+51.168856  4.988878  Geel  Europe/Brussels  BE
+51.181117  4.828573  Herentals  Europe/Brussels  BE
+50.824461  3.264297  Kortrijk  Europe/Brussels  BE
+51.135856  4.559976  Lier  Europe/Brussels  BE
+50.868958  3.814662  Zottegem  Europe/Brussels  BE
+50.930875  5.327061  Hasselt  Europe/Brussels  BE
+51.190772  5.115104  Mol  Europe/Brussels  BE
+51.211564  5.311815  Lommel  Europe/Brussels  BE
+50.673487  4.569657  Ottignies  Europe/Brussels  BE
+50.851177  3.601797  "OudenaarDE, "  Europe/Brussels  BE
+51.322185  4.937567  Turnhout  Europe/Brussels  BE
+51.150913  4.618064  Kessel  Europe/Brussels  BE
+51.165755  4.746088  Bouwel  Europe/Brussels  BE
+51.241713  4.894221  Tielen  Europe/Brussels  BE
+51.215618  5.423713  Overpelt  Europe/Brussels  BE
+50.958643  4.457732  Eppegem  Europe/Brussels  BE
+50.888644  4.419888  Haren  Europe/Brussels  BE
+50.882487  4.095125  Liedekerke  Europe/Brussels  BE
+51.002537  3.797448  Melle  Europe/Brussels  BE
+50.907054  3.921148  Burst  Europe/Brussels  BE
+50.50618  4.383688  Luttre  Europe/Brussels  BE
+51.17389  4.902968  Olen  Europe/Brussels  BE
+50.889858  4.416418  Haren-Zuid  Europe/Brussels  BE
+47.484375  7.731352  Liestal  Europe/ZuriCH  18143
+47.462747  7.812021  "SissaCH, "  Europe/ZuriCH  18144
+47.489634  7.611013  "DornaCH, "  Europe/ZuriCH  18145
+47.220299  7.201141  Tavannes  Europe/ZuriCH  18146
+47.419338  7.50263  Laufen  Europe/ZuriCH  18147
+46.632548  8.59179  Andermatt (Gemsstockbahn)  Europe/ZuriCH  18148
+46.625114  8.041776  Grindelwald BGF  Europe/ZuriCH  18149
+47.222798  7.10555  Tramelan  Europe/ZuriCH  18150
+47.254377  6.994057  Saignelegier  Europe/ZuriCH  18151
+47.28503  7.709868  Oensingen  Europe/ZuriCH  18152
+47.313239  7.694316  Balsthal  Europe/ZuriCH  18153
+47.507298  8.013128  Frick  Europe/ZuriCH  18154
+47.541583  7.948819  Stein-SΓ¤ckingen  Europe/ZuriCH  18155
+47.559768  8.061292  Laufenburg  Europe/ZuriCH  18156
+47.600327  8.227053  Koblenz Bahnhof  Europe/ZuriCH  18157
+47.64219  9.161823  Kreuzlingen Bernrain Bahnhof  Europe/ZuriCH  18158
+47.506776  8.012948  Frick Bahnhof  Europe/ZuriCH  18159
+46.295102  7.881598  Visp Bahnhof Nord  Europe/ZuriCH  18160
+46.893137  7.501354  Belp Post  Europe/ZuriCH  18161
+47.141662  8.43056  Rotkreuz Bahnhof Nord  Europe/ZuriCH  18162
+47.313814  7.694038  Balsthal Bahnhof  Europe/ZuriCH  18163
+47.488618  7.611085  Dornach-Arlesheim Bahnhof  Europe/ZuriCH  18164
+47.370913  8.000255  SchΓ¶nenwerd SO Bahnhof  Europe/ZuriCH  18165
+46.462733  6.336415  Rolle  Europe/ZuriCH  18166
+46.537056  6.578926  Renens VD  Europe/ZuriCH  18167
+46.462985  6.843424  Vevey  Europe/ZuriCH  18168
+46.22746  7.3593646  2  Sion  Europe/ZuriCH  18182
+46.292118  7.532807  Sierre/Siders  Europe/ZuriCH  18183
+46.292783  7.529913  Sierre/Siders SMC  Europe/ZuriCH  18184
+46.311903  7.642628  Leuk  Europe/ZuriCH  18185
+46.405112  8.136738  "FiesCH,FE  "  Europe/ZuriCH  18186
+46.311795  7.644022  Leuk Bahnhof  Europe/ZuriCH  18187
+46.411872  8.152416  FΓΌrgangen-Bellwald  Europe/ZuriCH  18188
+46.356373  8.04735  MΓ¶rel  Europe/ZuriCH  18189
+46.177622  7.802331  St. Niklaus  Europe/ZuriCH  18190
+46.066812  7.774842  "TΓ¤sCH, "  Europe/ZuriCH  18191
+46.024599  7.748054  Zermatt  Europe/ZuriCH  18192
+46.023718  7.749501  Zermatt GGB  Europe/ZuriCH  18193
+46.344732  7.008943  Leysin-Feydey gare  Europe/ZuriCH  18194
+46.227827  7.358255  Sion poste/gare  Europe/ZuriCH  18195
+46.292244  7.53269  Sierre poste/gare  Europe/ZuriCH  18196
+47.170778  8.097878  Sursee  Europe/ZuriCH  18197
+47.310245  8.115137  Unterkulm  Europe/ZuriCH  18198
+47.240579  8.189119  Menziken  Europe/ZuriCH  18199
+47.178248  8.457483  Cham  Europe/ZuriCH  18200
+47.348467  8.269788  Wohlen AG  Europe/ZuriCH  18201
+47.357448  8.437535  Birmensdorf ZH  Europe/ZuriCH  18202
+47.276068  8.446588  Affoltern am Albis  Europe/ZuriCH  18203
+47.435878  8.217623  Birr  Europe/ZuriCH  18204
+47.178679  8.463478  Cham See  Europe/ZuriCH  18205
+47.348872  8.269464  Wohlen AG Bahnhof  Europe/ZuriCH  18206
+47.170229  8.098624  Sursee Bahnhof  Europe/ZuriCH  18207
+47.450279  8.562333  "ZΓΌriCH,Flughafen  "  Europe/ZuriCH  18208
+47.378186  8.539203  "ZΓΌriCH,HB SZU  "  Europe/ZuriCH  18209
+47.319163  8.580626  KΓΌsnacht  Europe/ZuriCH  18210
+47.305778  8.591512  "ErlenbaCH,ZH  "  Europe/ZuriCH  18211
+47.269803  8.644287  Meilen  Europe/ZuriCH  18212
+47.253415  8.692335  MΓ¤nnedorf  Europe/ZuriCH  18213
+47.224263  8.980691  "UznaCH, "  Europe/ZuriCH  18214
+47.324466  8.54786  Kilchberg  Europe/ZuriCH  18215
+47.295844  8.564517  Thalwil  Europe/ZuriCH  18216
+47.208361  8.707464  Richterswil  Europe/ZuriCH  18217
+47.190068  8.852702  Lachen  Europe/ZuriCH  18218
+47.136142  9.060029  ZiegelbrΓΌcke  Europe/ZuriCH  18219
+47.039922  9.071563  Glarus  Europe/ZuriCH  18220
+46.996854  9.077442  Schwanden GL  Europe/ZuriCH  18221
+46.925947  8.997563  Linthal  Europe/ZuriCH  18222
+47.367075  8.78478  PfΓ¤ffikon ZH  Europe/ZuriCH  18223
+47.42021  8.619234  Dietlikon  Europe/ZuriCH  18224
+47.430629  8.558692  Glattbrugg  Europe/ZuriCH  18225
+47.548576  8.524039  Glattfelden  Europe/ZuriCH  18226
+47.572362  8.516542  Eglisau  Europe/ZuriCH  18227
+47.581261  8.512847  HΓΌntwangen-Wil  Europe/ZuriCH  18228
+47.60377  8.543419  Rafz  Europe/ZuriCH  18229
+47.625731  8.566827  Lottstetten  Europe/ZuriCH  18230
+47.654406  8.573282  Jestetten  Europe/ZuriCH  18231
+47.683136  8.624916  Neuhausen  Europe/ZuriCH  18232
+47.491755  8.253454  Turgi  Europe/ZuriCH  18233
+47.476438  8.307578  Baden  Europe/ZuriCH  18234
+47.433334  8.354187  "Killwangen-SpreitenbaCH, "  Europe/ZuriCH  18235
+47.399337  8.446938  Schlieren  Europe/ZuriCH  18236
+47.437155  8.472809  Regensdorf-Watt  Europe/ZuriCH  18237
+47.193646  8.850239  Lachen ZSG  Europe/ZuriCH  18238
+47.319055  8.578423  KΓΌsnacht ZSG  Europe/ZuriCH  18239
+47.303027  8.589327  "ErlenbaCH,ZSG  "  Europe/ZuriCH  18240
+47.267546  8.64035  Meilen ZSG  Europe/ZuriCH  18241
+47.252786  8.689081  MΓ¤nnedorf ZSG  Europe/ZuriCH  18242
+47.209099  8.707302  Richterswil ZSG  Europe/ZuriCH  18243
+47.296698  8.56805  Thalwil ZSG  Europe/ZuriCH  18244
+47.32256  8.551788  Kilchberg Bendlikon  Europe/ZuriCH  18245
+47.492259  8.253895  Turgi Bahnhof  Europe/ZuriCH  18246
+46.693504  6.911796  Romont  Europe/ZuriCH  18247
+46.618148  7.054932  Bulle  Europe/ZuriCH  18248
+47.152251  7.001023  St-Imier  Europe/ZuriCH  18249
+47.057855  6.746152  Le Locle  Europe/ZuriCH  18250
+47.152799  6.993355  St-Imier SMtS  Europe/ZuriCH  18251
+46.975073  7.19279  Kerzers  Europe/ZuriCH  18252
+46.99983  7.099554  Ins  Europe/ZuriCH  18253
+46.97421  7.192871  Kerzers Bahnhof  Europe/ZuriCH  18254
+47.083591  8.433499  KΓΌssnacht am Rigi  Europe/ZuriCH  18255
+46.999165  8.610065  Brunnen  Europe/ZuriCH  18256
+46.999515  8.609832  Brunnen Bahnhof  Europe/ZuriCH  18257
+46.901721  8.624295  FlΓΌelen  Europe/ZuriCH  18258
+46.875734  8.631577  Altdorf  Europe/ZuriCH  18259
+46.821043  8.650957  Erstfeld  Europe/ZuriCH  18260
+46.598785  8.503777  Realp  Europe/ZuriCH  18261
+46.682097  8.769408  Sedrun  Europe/ZuriCH  18262
+46.19543  9.029529  Bellinzona  Europe/ZuriCH  18263
+46.056637  8.930324  Taverne-Torricella  Europe/ZuriCH  18264
+45.832167  9.031426  Chiasso  Europe/ZuriCH  18265
+46.172418  8.801356  Locarno  Europe/ZuriCH  18266
+46.152605  8.941651  Cadenazzo  Europe/ZuriCH  18267
+46.170143  8.801167  Locarno NLM  Europe/ZuriCH  18268
+46.172669  8.801005  Locarno FART  Europe/ZuriCH  18269
+46.195286  9.028522  Bellinzona  Europe/ZuriCH  18270
+47.661391  8.818408  Etzwilen  Europe/ZuriCH  18271
+47.520584  8.587071  Embrach-Rorbas  Europe/ZuriCH  18272
+47.594331  8.678006  Andelfingen  Europe/ZuriCH  18273
+47.566213  9.10636  Weinfelden  Europe/ZuriCH  18274
+47.66451  8.981014  Steckborn  Europe/ZuriCH  18275
+47.656105  8.855021  Stein am Rhein  Europe/ZuriCH  18276
+47.659899  8.856649  Stein Urh  Europe/ZuriCH  18277
+47.668654  8.981437  Steckborn URh  Europe/ZuriCH  18278
+47.415284  9.189663  Flawil  Europe/ZuriCH  18279
+47.53938  9.182292  Sulgen  Europe/ZuriCH  18280
+47.328314  9.40882  Appenzell  Europe/ZuriCH  18281
+47.263663  9.120994  Ebnat-Kappel  Europe/ZuriCH  18282
+47.226664  9.197798  Nesslau-Neu St. Johann  Europe/ZuriCH  18283
+47.466891  9.590869  Rheineck  Europe/ZuriCH  18284
+47.436103  9.641254  Au SG  Europe/ZuriCH  18285
+47.410394  9.627231  Heerbrugg  Europe/ZuriCH  18286
+47.390267  9.390086  Teufen  Europe/ZuriCH  18287
+47.468563  9.59078  "Rheineck SchifflΓ¤nDE, "  Europe/ZuriCH  18288
+47.437398  9.639222  Au SG Monstein  Europe/ZuriCH  18291
+46.819191  7.342838  Schwarzenburg  Europe/ZuriCH  18292
+46.682205  7.85072  Interlaken West ThS  Europe/ZuriCH  18294
+46.504533  7.291078  SchΓ¶nried  Europe/ZuriCH  18295
+46.517594  7.311708  SaanenmΓ¶ser  Europe/ZuriCH  18296
+46.45858  7.443517  Lenk im Simmental  Europe/ZuriCH  18297
+46.606291  7.921564  Wengen Wengiboden  Europe/ZuriCH  18298
+46.560545  7.892951  MΓΌrren LSMS-sbm  Europe/ZuriCH  18299
+46.691005  7.865372  Interlaken Harderbahn  Europe/ZuriCH  18300
+46.557713  7.891279  MΓΌrren LSMS-lsms  Europe/ZuriCH  18301
+46.367744  7.75502  Goppenstein  Europe/ZuriCH  18302
+46.495544  7.671268  Kandersteg  Europe/ZuriCH  18303
+46.588708  7.651609  Frutigen  Europe/ZuriCH  18304
+46.62524  7.690037  "ReichenbaCH,im Kandertal  "  Europe/ZuriCH  18305
+46.368185  7.755425  Goppenstein Bahnhof  Europe/ZuriCH  18306
+47.188091  7.70095  Herzogenbuchsee  Europe/ZuriCH  18307
+47.16978  7.565168  Gerlafingen  Europe/ZuriCH  18308
+47.114595  7.842728  Huttwil  Europe/ZuriCH  18309
+46.881298  7.621135  Konolfingen  Europe/ZuriCH  18310
+46.951054  8.014153  SchΓΌpfheim  Europe/ZuriCH  18311
+46.754838  8.038927  Brienz  Europe/ZuriCH  18312
+46.727313  8.184219  Meiringen  Europe/ZuriCH  18313
+46.757858  8.139049  BrΓΌnig-Hasliberg  Europe/ZuriCH  18314
+46.836532  8.186305  Giswil  Europe/ZuriCH  18315
+46.870951  8.23829  Sachseln  Europe/ZuriCH  18316
+46.955036  8.277833  Alpnachstad  Europe/ZuriCH  18317
+46.755215  8.038082  Brienz BRB  Europe/ZuriCH  18318
+46.691688  7.869183  Interlaken Ost BrS  Europe/ZuriCH  18319
+46.753759  8.03836  Brienz BrS  Europe/ZuriCH  18320
+46.927844  8.396176  "NiederrickenbaCH,Station  "  Europe/ZuriCH  18321
+46.976278  8.336335  Stansstad  Europe/ZuriCH  18322
+46.819506  8.402684  Engelberg  Europe/ZuriCH  18323
+46.955495  8.277177  Alpnachstad PB  Europe/ZuriCH  18324
+46.903366  8.623936  FlΓΌelen SGV  Europe/ZuriCH  18325
+46.980647  8.336155  Stansstad SGV  Europe/ZuriCH  18326
+47.079951  8.438758  KΓΌssnacht am Rigi SGV  Europe/ZuriCH  18327
+46.816216  8.396257  Engelberg BET  Europe/ZuriCH  18328
+46.818913  8.415422  Engelberg EB  Europe/ZuriCH  18329
+46.955756  8.278957  Alpnachstad SGV  Europe/ZuriCH  18330
+46.967451  9.554059  Landquart  Europe/ZuriCH  18331
+47.010302  9.505229  Bad Ragaz  Europe/ZuriCH  18332
+46.980494  9.645803  "GrΓΌsCH, "  Europe/ZuriCH  18333
+46.91427  9.771831  KΓΌblis  Europe/ZuriCH  18334
+46.809708  9.8421  D  avos Dorf  Europe/ZuriCH  18335
+46.783298  9.679332  Arosa  Europe/ZuriCH  18336
+46.775351  9.207444  Ilanz  Europe/ZuriCH  18337
+46.754739  9.062385  Tavanasa-Breil/Brigels  Europe/ZuriCH  18338
+46.823641  9.412577  Reichenau-Tamins  Europe/ZuriCH  18339
+46.698673  9.440633  Thusis  Europe/ZuriCH  18340
+46.663876  9.572864  Tiefencastel  Europe/ZuriCH  18341
+46.675301  9.682272  Filisur  Europe/ZuriCH  18342
+46.631065  9.746742  BergΓΌn/Bravuogn  Europe/ZuriCH  18343
+46.533757  9.873643  Samedan  Europe/ZuriCH  18344
+46.51399  9.858469  Celerina  Europe/ZuriCH  18345
+46.490609  9.896116  Pontresina  Europe/ZuriCH  18346
+46.599936  9.961495  Zuoz  Europe/ZuriCH  18347
+46.697657  10.089933  Zernez  Europe/ZuriCH  18348
+46.79377  10.286212  Scuol-Tarasp  Europe/ZuriCH  18349
+46.795298  10.289169  Scuol PSFS  Europe/ZuriCH  18350
+47.168395  9.47863  Buchs SG  Europe/ZuriCH  18351
+47.096617  9.347927  Flums  Europe/ZuriCH  18352
+47.113849  9.255005  Unterterzen  Europe/ZuriCH  18353
+47.113336  9.255095  Unterterzen LUFAG  Europe/ZuriCH  18354
+46.697792  10.091056  Zernez staziun  Europe/ZuriCH  18355
+46.486213  7.208629  Rougemont BDGAG  Europe/ZuriCH  18356
+46.014783  7.742804  Zermatt ZBAG-lz  Europe/ZuriCH  18357
+46.022451  7.752279  Zermatt ZBAG-zsb  Europe/ZuriCH  18358
+46.356598  8.046001  MΓ¶rel ARBAG  Europe/ZuriCH  18359
+46.411935  8.152299  FΓΌrgangen LFΓΌB  Europe/ZuriCH  18360
+46.503553  7.293092  SchΓ¶nried BDGAG-she  Europe/ZuriCH  18361
+46.489054  7.661128  Kandersteg (Luftseilbahn)  Europe/ZuriCH  18362
+46.728337  8.192112  Meiringen Luftseilbahn  Europe/ZuriCH  18363
+46.802049  8.449347  Engelberg (FΓΌrenalp Bahn)  Europe/ZuriCH  18364
+46.700965  8.841124  Disentis/Muster BBD  Europe/ZuriCH  18365
+46.622427  9.750985  BergΓΌn/Bravuogn SBAD  Europe/ZuriCH  18366
+46.512812  9.852986  Celerina BEST-lcs  Europe/ZuriCH  18367
+46.490887  9.906948  "Pontresina SPL, "  Europe/ZuriCH  18368
+46.595693  8.501233  Realp DFB  Europe/ZuriCH  18369
+47.267978  8.638471  Meilen Autoquai  Europe/ZuriCH  18370
+47.114478  9.253459  Unterterzen (See)  Europe/ZuriCH  18371
+46.171941  8.797473  Locarno FLMS  Europe/ZuriCH  18372
+46.475039  7.134171  Chateau-dβ€™Oex TCPM/TPBM  Europe/ZuriCH  18373
+46.504803  7.287222  SchΓ¶nried BDGAG-rls  Europe/ZuriCH  18374
+46.463147  6.336666  Rolle gare  Europe/ZuriCH  18375
+46.510511  6.494131  Morges gare  Europe/ZuriCH  18376
+46.693495  6.912102  "Romont FR,gare  "  Europe/ZuriCH  18377
+46.316766  6.963817  Aigle gare  Europe/ZuriCH  18378
+46.474851  7.132787  Chateau-dβ€™Oex gare  Europe/ZuriCH  18379
+46.251271  7.000996  Bex gare  Europe/ZuriCH  18380
+46.216294  7.002471  St-Maurice VS poste  Europe/ZuriCH  18381
+46.053095  6.950504  Le ChΓΆtelard-FrontiΓ¨re  Europe/ZuriCH  18382
+46.293844  7.880798  Visp Bahnhof SΓΌd  Europe/ZuriCH  18383
+46.475534  7.283689  Gstaad Bahnhof  Europe/ZuriCH  18384
+46.683589  7.851834  Interlaken West Bahnhof  Europe/ZuriCH  18385
+46.598434  7.907307  Lauterbrunnen Bahnhof  Europe/ZuriCH  18386
+46.625645  7.690343  "ReichenbaCH,im Kandertal  "  Europe/ZuriCH  18387
+47.000126  7.099464  Ins Bahnhof  Europe/ZuriCH  18388
+47.11437  7.842971  Huttwil Bahnhof  Europe/ZuriCH  18389
+46.757867  8.137745  BrΓΌnig-Hasliberg Bahnhof  Europe/ZuriCH  18390
+46.72743  8.184651  Meiringen Bahnhof  Europe/ZuriCH  18391
+46.889415  7.498423  Belp Bahnhof  Europe/ZuriCH  18392
+47.057774  6.746269  Le Locle gare  Europe/ZuriCH  18393
+47.222978  7.104894  Tramelan gare  Europe/ZuriCH  18394
+47.255114  6.994102  Saignelegier gare  Europe/ZuriCH  18395
+47.21976  7.201132  Tavannes gare  Europe/ZuriCH  18396
+47.419239  7.501902  Laufen Bahnhof  Europe/ZuriCH  18397
+47.48451  7.731729  Liestal Bahnhof  Europe/ZuriCH  18398
+47.285381  7.710029  Oensingen Bahnhof  Europe/ZuriCH  18399
+47.559777  8.060771  Laufenburg Bahnhof  Europe/ZuriCH  18400
+47.437443  8.216778  Birr Bahnhof  Europe/ZuriCH  18401
+47.600381  8.226604  Koblenz Bahnhof  Europe/ZuriCH  18402
+47.541888  7.948666  Stein-SΓ¤ckingen Bahnhof  Europe/ZuriCH  18403
+46.837098  8.18679  Giswil Bahnhof  Europe/ZuriCH  18404
+46.8707  8.239081  achseln Bahnhof  Europe/ZuriCH  18405
+46.976332  8.336551  Stansstad Bahnhof  Europe/ZuriCH  18406
+47.141841  8.430677  Rotkreuz Bahnhof SΓΌd  Europe/ZuriCH  18407
+46.876057  8.631756  Altdorf UR Bahnhof  Europe/ZuriCH  18408
+46.665701  8.588536  GΓ¶schenen Bahnhof  Europe/ZuriCH  18409
+46.903115  8.624799  FlΓΌelen Bahnhof  Europe/ZuriCH  18410
+46.925929  8.998507  Linthal Bahnhof  Europe/ZuriCH  18411
+46.637115  8.59446  Andermatt Bahnhof  Europe/ZuriCH  18412
+46.598389  8.501611  Realp Post  Europe/ZuriCH  18413
+47.294973  8.564418  Thalwil Zentrum  Europe/ZuriCH  18414
+47.295997  8.565128  Thalwil Bahnhof  Europe/ZuriCH  18415
+47.275826  8.446615  Affoltern am Albis Bahnhof  Europe/ZuriCH  18416
+47.594826  8.678015  Andelfingen Bahnhof  Europe/ZuriCH  18417
+47.450432  8.563726  "ZΓΌriCH,Flughafen Bahnhof  "  Europe/ZuriCH  18418
+47.520683  8.587035  Embrach-Rorbas Bahnhof  Europe/ZuriCH  18419
+47.566222  9.106755  Weinfelden Bahnhof  Europe/ZuriCH  18420
+47.655925  8.854986  Stein am Rhein Bahnhof  Europe/ZuriCH  18421
+47.664447  8.980376  Steckborn Bahnhof  Europe/ZuriCH  18422
+47.652348  9.169069  Kreuzlingen Bahnhof  Europe/ZuriCH  18423
+47.538293  9.182759  Sulgen Bahnhof  Europe/ZuriCH  18424
+47.367066  8.784537  PfΓ¤ffikon ZH Bahnhof  Europe/ZuriCH  18425
+47.603995  8.543518  Rafz Bahnhof  Europe/ZuriCH  18426
+47.356944  8.438812  Birmensdorf ZH Bahnhof  Europe/ZuriCH  18427
+47.136394  9.059131  ZiegelbrΓΌcke Bahnhof  Europe/ZuriCH  18428
+47.039553  9.071644  Glarus Bahnhof  Europe/ZuriCH  18429
+47.415185  9.189474  Flawil Bahnhof  Europe/ZuriCH  18430
+47.226852  9.19787  Nesslau-Neu St. Johann  Europe/ZuriCH  18431
+47.167964  9.478217  Buchs SG Bahnhof  Europe/ZuriCH  18432
+47.389971  9.389736  Teufen AR Bahnhof  Europe/ZuriCH  18433
+47.391283  9.391426  Teufen AR Speicherstrasse  Europe/ZuriCH  18434
+47.467772  9.59015  Rheineck Bahnhof  Europe/ZuriCH  18435
+47.410843  9.627959  Heerbrugg Bahnhof  Europe/ZuriCH  18436
+47.224335  8.980214  "UznaCH,Bahnhof  "  Europe/ZuriCH  18437
+47.190446  8.853188  Lachen SZ Bahnhof  Europe/ZuriCH  18438
+46.980431  9.645353  "GrΓΌsCH,Bahnhof  "  Europe/ZuriCH  18439
+46.966866  9.554445  Landquart Bahnhof  Europe/ZuriCH  18440
+47.045117  9.44501  Sargans Bahnhof  Europe/ZuriCH  18441
+46.631056  9.74703  BergΓΌn/Bravuogn staziun  Europe/ZuriCH  18442
+47.09463  9.349851  Flums Bahnhof  Europe/ZuriCH  18443
+46.809987  9.841884  Davos Dorf Bahnhof  Europe/ZuriCH  18444
+46.793905  10.28801  Scuol-Tarasp staziun  Europe/ZuriCH  18445
+46.675013  9.679737  Filisur Bahnhof  Europe/ZuriCH  18446
+46.706125  8.858536  Disentis/Muster staziun/posta  Europe/ZuriCH  18447
+46.490923  9.895469  Pontresina Bahnhof  Europe/ZuriCH  18448
+46.533757  9.872888  Samedan Bahnhof  Europe/ZuriCH  18449
+46.754388  9.062169  Tavanasa-Breil/Brigels staziun  Europe/ZuriCH  18450
+46.914261  9.77202  KΓΌblis Bahnhof  Europe/ZuriCH  18451
+46.663939  9.572945  Tiefencastel Bahnhof  Europe/ZuriCH  18452
+47.010275  9.505175  Bad Ragaz Bahnhof  Europe/ZuriCH  18453
+46.775108  9.207677  Ilanz Bahnhof/Post  Europe/ZuriCH  18454
+46.351573  8.974695  Biasca  Europe/ZuriCH  18455
+46.058102  8.930081  Taverne-Torricella  Europe/ZuriCH  18456
+45.868348  8.978021  Mendrisio  Europe/ZuriCH  18457
+46.52768  8.608933  Airolo  Europe/ZuriCH  18458
+47.549071  8.52429  Glattfelden Bahnhof  Europe/ZuriCH  18459
+47.253478  8.692488  MΓ¤nnedorf Bahnhof  Europe/ZuriCH  18460
+47.269776  8.644332  Meilen Bahnhof  Europe/ZuriCH  18461
+47.208029  8.707347  Richterswil Bahnhof  Europe/ZuriCH  18462
+47.581459  8.51291  HΓΌntwangen-Wil Bahnhof  Europe/ZuriCH  18463
+46.588942  7.651105  Frutigen Bahnhof  Europe/ZuriCH  18464
+46.495382  7.671789  Kandersteg Bahnhof  Europe/ZuriCH  18465
+46.69025  7.86868  Interlaken Ost Bahnhof  Europe/ZuriCH  18466
+46.624126  8.03445  Grindelwald Bahnhof  Europe/ZuriCH  18467
+46.754892  8.038316  "Brienz BE,Bahnhof"  Europe/ZuriCH  18468
+47.151577  7.000322  St-Imier gare  Europe/ZuriCH  18469
+47.188262  7.701355  Herzogenbuchsee Bahnhof  Europe/ZuriCH  18470
+47.08351  8.433688  KΓΌssnacht am Rigi Bahnhof  Europe/ZuriCH  18471
+46.902674  8.62381  FlΓΌelen Hauptplatz  Europe/ZuriCH  18472
+46.820576  8.651533  Erstfeld Bahnhof  Europe/ZuriCH  18473
+46.996926  9.076911  Schwanden GL Bahnhof  Europe/ZuriCH  18474
+47.178284  8.457608  Cham Bahnhof  Europe/ZuriCH  18475
+47.180621  8.458822  Cham Gemeindehaus  Europe/ZuriCH  18476
+46.618247  7.05512  Bulle gare  Europe/ZuriCH  18477
+46.819111  7.343422  Schwarzenburg Bahnhof  Europe/ZuriCH  18478
+47.188675  7.398355  Grenchen SΓΌd Bahnhof  Europe/ZuriCH  18479
+47.191237  7.389816  Grenchen Nord Bahnhof  Europe/ZuriCH  18480
+47.46263  7.812866  "SissaCH,Bahnhof"  Europe/ZuriCH  18481
+47.328655  9.409611  Appenzell Bahnhof  Europe/ZuriCH  18482
+47.433919  9.634989  Au SG Gemeindehaus  Europe/ZuriCH  18483
+47.263528  9.120797  Ebnat-Kappel Bahnhof  Europe/ZuriCH  18484
+46.17249  8.800358  Locarno  Europe/ZuriCH  18485
+47.476411  8.306877  Baden Bahnhof West  Europe/ZuriCH  18486
+46.46267  6.842319  Vevey gare  Europe/ZuriCH  18487
+46.488667  7.260443  Saanen Bahnhof  Europe/ZuriCH  18488
+46.504533  7.290746  SchΓ¶nried Bahnhof  Europe/ZuriCH  18489
+46.517424  7.311169  SaanenmΓ¶ser Bahnhof  Europe/ZuriCH  18490
+46.457627  7.444335  Lenk im Simmental Bahnhof  Europe/ZuriCH  18491
+46.356553  8.046451  MΓ¶rel Post  Europe/ZuriCH  18492
+46.403072  8.132981  "FiesCH,Bahnhof"  Europe/ZuriCH  18493
+46.411018  8.151499  FΓΌrgangen Abzweigung Bahnhof  Europe/ZuriCH  18494
+46.291668  7.532223  Sierre/Siders gare CFF  Europe/ZuriCH  18495
+46.29397  7.532897  Sierre le Bourgeois  Europe/ZuriCH  18496
+46.227827  7.359585  Sion gare  Europe/ZuriCH  18497
+46.194936  9.028172  Bellinzona Piazzale Stazione  Europe/ZuriCH  18498
+45.868357  8.977859  Mendrisio Stazione Transito Bus  Europe/ZuriCH  18499
+46.698098  9.440129  Thusis Bahnhof  Europe/ZuriCH  18500
+46.756968  8.137736  BrΓΌnig-Hasliberg Waldegg  Europe/ZuriCH  18501
+46.53569  9.872843  Samedan Post  Europe/ZuriCH  18502
+46.152219  8.944042  Cadenazzo  Europe/ZuriCH  18503
+47.241972  8.187932  Menziken Bahnhof  Europe/ZuriCH  18504
+46.728364  8.19053  Meiringen Luftseilbahn  Europe/ZuriCH  18505
+47.682794  8.624853  Neuhausen Bahnhof SBB  Europe/ZuriCH  18506
+46.954767  8.277447  Alpnachstad Bahnhof  Europe/ZuriCH  18507
+46.228178  7.357985  Sion Gare Bus Sedunois  Europe/ZuriCH  18508
+46.178063  7.803059  St. Niklaus (Visp)  Europe/ZuriCH  18509
+45.832194  9.032127  Chiasso  Europe/ZuriCH  18510
+47.057298  6.748552  Le Locle Jardin Klaus  Europe/ZuriCH  18511
+47.057549  6.748345  Le Locle place du Marche  Europe/ZuriCH  18512
+46.679355  8.773265  Sedrun Tgesa Communala  Europe/ZuriCH  18513
+47.572523  8.516344  Eglisau Bahnhof  Europe/ZuriCH  18514
+46.599765  9.960785  Zuoz staziun  Europe/ZuriCH  18515
+46.880974  7.620632  Konolfingen Bahnhof  Europe/ZuriCH  18516
+46.537541  6.57933  Renens VD gare nord  Europe/ZuriCH  18517
+47.654307  8.573407  Jestetten Bahnhof  Europe/ZuriCH  18518
+47.370437  8.002386  SchΓ¶nenwerd SO Zentrum  Europe/ZuriCH  18519
+47.476537  8.308181  Baden Bahnhof Ost  Europe/ZuriCH  18520
+47.433343  8.353531  Killwangen Bahnhof  Europe/ZuriCH  18521
+47.285003  7.710659  Oensingen Bahnhof SΓΌd  Europe/ZuriCH  18522
+46.617725  7.055273  "Bulle Place DE,la Gare"  Europe/ZuriCH  18523
+46.314582  6.96334  Aigle Novassales  Europe/ZuriCH  18524
+47.192253  7.395596  Grenchen Postplatz SΓΌd  Europe/ZuriCH  18525
+46.17249  8.800376  Locarno Piazza Stazione  Europe/ZuriCH  18526
+46.024194  7.748458  Zermatt Bahnhof  Europe/ZuriCH  18527
+46.29334  7.533958  "Sierre HΓ΄tel DE,Ville - CFF"  Europe/ZuriCH  18528
+47.489265  7.610842  Dornach-Arlesheim  Europe/ZuriCH  18529
+46.511104  6.493942  Morges  Europe/ZuriCH  18530
+46.344444  7.008358  Leysin-Feydey  Europe/ZuriCH  18531
+46.403045  8.132612  "FiesCH"  Europe/ZuriCH  18532
+47.371426  8.000165  SchΓ¶nenwerd SO  Europe/ZuriCH  18533
+47.14176  8.430479  Rotkreuz  Europe/ZuriCH  18534
+47.391687  8.489089  "ZΓΌriCH,Altstetten"  Europe/ZuriCH  18535
+46.665809  8.588797  GΓ¶schenen  Europe/ZuriCH  18536
+46.636908  8.593435  Andermatt  Europe/ZuriCH  18537
+47.652554  9.169087  Kreuzlingen  Europe/ZuriCH  18538
+47.6421  9.163199  Kreuzlingen Bernrain  Europe/ZuriCH  18539
+46.888885  7.498585  Belp  Europe/ZuriCH  18540
+46.604898  7.921006  Wengen  Europe/ZuriCH  18541
+46.59892  7.907307  Lauterbrunnen BLM  Europe/ZuriCH  18542
+46.564114  7.897257  MΓΌrren BLM  Europe/ZuriCH  18543
+46.624368  8.0333  Grindelwald  Europe/ZuriCH  18544
+46.704975  8.855021  Disentis/Muster  Europe/ZuriCH  18545
+47.044794  9.446269  Sargans  Europe/ZuriCH  18546
+46.294024  7.881454  Visp  Europe/ZuriCH  18547
+46.598434  7.90809  Lauterbrunnen  Europe/ZuriCH  18548
+46.690691  7.868977  Interlaken Ost  Europe/ZuriCH  18549
+49.743167  13.388246  PlzeΕ​ hl.n.  Europe/Prague  CZ
+50.025401  15.213532  KolΓ​n  Europe/Prague  CZ
+50.679079  14.54095  Δ​eska LΓ​pa hl.n.  Europe/Prague  CZ
+50.101261  14.501434  Praha-LibeΕ​  Europe/Prague  CZ
+50.031262  15.75871  Pardubice hl.n.  Europe/Prague  CZ
+50.110214  14.44001  Praha-HoleΕ΅ovice  Europe/Prague  CZ
+50.061484  14.408872  Praha-SmΓ​chov  Europe/Prague  CZ
+50.061169  14.457063  Praha-VrΕ΅ovice  Europe/Prague  CZ
+50.097288  14.399685  Praha-Dejvice  Europe/Prague  CZ
+48.831481  13.795565  Nove Γ​dolΓ​  Europe/Prague  CZ
+50.107329  14.408629  Praha-BubeneΔ​  Europe/Prague  CZ
+50.100389  14.424064  Praha-Bubny  Europe/Prague  CZ
+50.063228  14.406364  Praha-SmΓ​chov sev.n.  Europe/Prague  CZ
+50.062967  14.495896  Praha-StraΕ΅nice zastΓ΅vka  Europe/Prague  CZ
+49.96814  14.402355  Praha-Zbraslav  Europe/Prague  CZ
+50.110214  14.44001  Praha NΓ΅draΕΎΓ​ HoleΕ΅ovice (M)  Europe/Prague  CZ
+50.060783  14.407811  (M)  Europe/Prague  CZ
+50.08837  14.432451  Praha NΓ΅mΔ›stΓ​ Republiky (M)  Europe/Prague  CZ
+56.052596  9.845768  Alken St.  Europe/Copenhagen  DK
+56.07506  12.537704  "Γ…lsgΓ¥rDE,St."  Europe/Copenhagen  DK
+56.769252  9.859827  Arden St.  Europe/Copenhagen  DK
+56.264131  8.78745  Aulum St.  Europe/Copenhagen  DK
+56.806036  8.407026  Bedsted Thy St.  Europe/Copenhagen  DK
+56.374248  9.658118  Bjerringbro St.  Europe/Copenhagen  DK
+56.14674  9.278225  Bording St.  Europe/Copenhagen  DK
+55.642068  9.652329  BΓΈrkop St.  Europe/Copenhagen  DK
+55.958192  8.644036  Borris St.  Europe/Copenhagen  DK
+55.494897  11.97293  Borup St.  Europe/Copenhagen  DK
+55.464513  8.70678  Bramming St.  Europe/Copenhagen  DK
+55.939629  9.12388  "BranDE,St."  Europe/Copenhagen  DK
+55.373291  10.105772  Bred St.  Europe/Copenhagen  DK
+55.056897  8.823065  Bredebro St.  Europe/Copenhagen  DK
+55.666671  9.659187  Brejning St.  Europe/Copenhagen  DK
+57.270356  9.942518  BrΓΈnderslev St.  Europe/Copenhagen  DK
+55.194693  8.740751  BrΓΈns St.  Europe/Copenhagen  DK
+55.48268  9.015596  BrΓΈrup St.  Europe/Copenhagen  DK
+56.367776  8.426101  Bur St.  Europe/Copenhagen  DK
+55.117485  8.807864  DΓΈstrup St. (SΓΈnderjylland)  Europe/Copenhagen  DK
+56.097677  12.387575  DronningmΓΈlle St.  Europe/Copenhagen  DK
+55.428745  9.929889  Ejby St.  Europe/Copenhagen  DK
+56.16773  9.351666  Engesvang St.  Europe/Copenhagen  DK
+56.098325  12.355727  FirhΓΈj St. (Gilleleje)  Europe/Copenhagen  DK
+56.116438  12.298223  Fjellenstrup St.  Europe/Copenhagen  DK
+57.442679  10.54067  Frederikshavn St.  Europe/Copenhagen  DK
+55.369623  10.377524  Fruens BΓΈge St.  Europe/Copenhagen  DK
+55.572986  12.099426  Gadstrup St.  Europe/Copenhagen  DK
+55.763881  8.611288  "GaarDE,St."  Europe/Copenhagen  DK
+55.396213  9.974394  Gelsted St.  Europe/Copenhagen  DK
+55.842761  9.236757  Give St.  Europe/Copenhagen  DK
+55.353334  11.695829  GlumsΓΈ St.  Europe/Copenhagen  DK
+55.469601  8.800978  GΓΈrding St.  Europe/Copenhagen  DK
+56.073047  12.286519  GrΓ¦sted St.  Europe/Copenhagen  DK
+56.063509  12.295256  GrΓ¦sted Syd St.  Europe/Copenhagen  DK
+54.918706  9.593926  GrΓ¥sten St.  Europe/Copenhagen  DK
+55.397427  8.741065  Gredstedbro St.  Europe/Copenhagen  DK
+56.412489  10.879995  Grenaa St.  Europe/Copenhagen  DK
+56.040227  12.611002  GrΓΈnnehave St. (HelsingΓΈr)  Europe/Copenhagen  DK
+55.535959  8.440322  Guldager St.  Europe/Copenhagen  DK
+56.327442  10.047189  Hadsten St.  Europe/Copenhagen  DK
+56.131818  9.06323  Hammerum St.  Europe/Copenhagen  DK
+55.329522  11.960866  Haslev St.  Europe/Copenhagen  DK
+55.543546  12.117117  Havdrup St.  Europe/Copenhagen  DK
+56.144071  8.286661  Hee St.  Europe/Copenhagen  DK
+56.066673  12.553687  HellebΓ¦k St.  Europe/Copenhagen  DK
+55.417841  12.137109  HerfΓΈlge St.  Europe/Copenhagen  DK
+56.263088  10.059486  Hinnerup St.  Europe/Copenhagen  DK
+55.358225  10.392608  Hjallese St.  Europe/Copenhagen  DK
+56.439537  8.639056  Hjerm St.  Europe/Copenhagen  DK
+57.456397  9.987456  HjΓΈrring St.  Europe/Copenhagen  DK
+56.643376  9.78225  Hobro St.  Europe/Copenhagen  DK
+55.330214  10.433959  HΓΈjby Fyn St.  Europe/Copenhagen  DK
+56.54943  9.110279  HΓΈjslev St.  Europe/Copenhagen  DK
+56.047104  12.594112  HΓΈjstrup St.  Europe/Copenhagen  DK
+55.715483  11.708368  HolbΓ¦k St.  Europe/Copenhagen  DK
+55.261024  11.848636  Holme-Olstrup St.  Europe/Copenhagen  DK
+55.362009  10.271955  Holmstrup St.  Europe/Copenhagen  DK
+55.484829  8.913712  Holsted St.  Europe/Copenhagen  DK
+56.850686  8.490176  HΓΈrdum St.  Europe/Copenhagen  DK
+56.089165  12.459462  HornbΓ¦k St.  Europe/Copenhagen  DK
+56.089965  12.435263  Horneby Sand St.  Europe/Copenhagen  DK
+55.96381  12.532931  HumlebΓ¦k St.  Europe/Copenhagen  DK
+56.54045  8.552400  Humlum St.  Europe/Copenhagen  DK
+56.751589  8.418209  Hurup Thy St.  Europe/Copenhagen  DK
+55.595306  11.859648  HvalsΓΈ St.  Europe/Copenhagen  DK
+56.650334  8.526169  Hvidbjerg St.  Europe/Copenhagen  DK
+55.274463  8.730152  Hviding St.  Europe/Copenhagen  DK
+56.144916  9.15518  Ikast St.  Europe/Copenhagen  DK
+55.753894  9.422061  Jelling St.  Europe/Copenhagen  DK
+55.660307  11.39798  Jyderup St.  Europe/Copenhagen  DK
+55.997259  12.286186  Kagerup St. (HillerΓΈd)  Europe/Copenhagen  DK
+55.677746  11.090081  Kalundborg St.  Europe/Copenhagen  DK
+56.083169  12.468209  KarinebΓ¦k St.  Europe/Copenhagen  DK
+55.475956  9.81053  "KauslunDE,St."  Europe/Copenhagen  DK
+56.032128  8.851516  KibΓ¦k St.  Europe/Copenhagen  DK
+56.092616  12.423442  Kildekrog St.  Europe/Copenhagen  DK
+55.777203  12.588305  Klampenborg St.  Europe/Copenhagen  DK
+54.935363  9.396774  Kliplev St.  Europe/Copenhagen  DK
+55.664811  11.553664  Knabstrup St.  Europe/Copenhagen  DK
+55.3572  11.135126  KorsΓΈr St.  Europe/Copenhagen  DK
+55.177793  10.519087  KvΓ¦rndrup St.  Europe/Copenhagen  DK
+57.472029  10.412349  Kvissel St.  Europe/Copenhagen  DK
+55.990391  12.502485  Kvistgaard St.  Europe/Copenhagen  DK
+55.981348  12.451686  LangerΓΈd St.  Europe/Copenhagen  DK
+56.124825  9.717545  Laven St.  Europe/Copenhagen  DK
+55.604709  11.972328  Lejre St.  Europe/Copenhagen  DK
+56.024982  8.386036  Lem St.  Europe/Copenhagen  DK
+55.511509  12.140282  Lille Skensved St.  Europe/Copenhagen  DK
+55.110293  11.869491  Lundby St.  Europe/Copenhagen  DK
+56.664681  8.45137  Lyngs St.  Europe/Copenhagen  DK
+55.62844  12.57865  Γ​restad St.  Europe/Copenhagen  DK
+56.043311  12.601977  Marienlyst St.  Europe/Copenhagen  DK
+56.030869  12.316857  MΓ¥rum St. (GrΓ¦sted-Gilleleje)  Europe/Copenhagen  DK
+56.002194  12.532652  MΓΈrdrup St.  Europe/Copenhagen  DK
+55.654518  11.501832  MΓΈrkΓΈv St.  Europe/Copenhagen  DK
+55.934083  12.506898  NivΓ¥ St.  Europe/Copenhagen  DK
+54.896754  11.885735  NΓΈrre Alslev St.  Europe/Copenhagen  DK
+55.31407  10.802921  Nyborg St.  Europe/Copenhagen  DK
+56.582672  8.547411  Oddesund Nord St.  Europe/Copenhagen  DK
+55.480055  12.175457  Γ​lby St.  Europe/Copenhagen  DK
+55.810984  8.622767  Γ​lgod St.  Europe/Copenhagen  DK
